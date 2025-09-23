@@ -1,0 +1,53 @@
+<!-- flag-us.svg  | Ratio 10:19 -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 1000" role="img" aria-label="United States flag">
+  <!-- fondo blanco -->
+  <rect width="1900" height="1000" fill="#fff"></rect>
+  <!-- 13 franjas (rojas comienzan arriba) -->
+  <g fill="#b22234">
+    <rect y="0" width="1900" height="76.923"></rect>
+    <rect y="153.846" width="1900" height="76.923"></rect>
+    <rect y="307.692" width="1900" height="76.923"></rect>
+    <rect y="461.538" width="1900" height="76.923"></rect>
+    <rect y="615.384" width="1900" height="76.923"></rect>
+    <rect y="769.230" width="1900" height="76.923"></rect>
+    <rect y="923.076" width="1900" height="76.923"></rect>
+  </g>
+
+  <!-- cantón (azul): ancho 0.76 del total, alto 7 franjas -->
+  <rect width="1444" height="538.461" fill="#3c3b6e"></rect>
+
+  <!-- estrellas: patrón simplificado (círculos blancos) 9 filas alternando 6 y 5 -->
+  <g fill="#fff">
+    <!-- parámetros -->
+    <!-- ancho canton: 1444, alto canton: 538.461 -->
+    <!-- separaciones -->
+    <g id="row6">
+      <!-- 6 columnas -->
+      <!-- margen x ~ 6%, paso x ~ 16%; margen y se define al usar -->
+      <circle cx="120" cy="0" r="12"></circle>
+      <circle cx="360" cy="0" r="12"></circle>
+      <circle cx="600" cy="0" r="12"></circle>
+      <circle cx="840" cy="0" r="12"></circle>
+      <circle cx="1080" cy="0" r="12"></circle>
+      <circle cx="1320" cy="0" r="12"></circle>
+    </g>
+    <g id="row5">
+      <!-- 5 columnas centradas -->
+      <circle cx="240" cy="0" r="12"></circle>
+      <circle cx="480" cy="0" r="12"></circle>
+      <circle cx="720" cy="0" r="12"></circle>
+      <circle cx="960" cy="0" r="12"></circle>
+      <circle cx="1200" cy="0" r="12"></circle>
+    </g>
+    <!-- dibujar 9 filas: 6,5,6,5,... con paso vertical -->
+    <g transform="translate(0,50)"><use href="#row6"></use></g>
+    <g transform="translate(0,110)"><use href="#row5"></use></g>
+    <g transform="translate(0,170)"><use href="#row6"></use></g>
+    <g transform="translate(0,230)"><use href="#row5"></use></g>
+    <g transform="translate(0,290)"><use href="#row6"></use></g>
+    <g transform="translate(0,350)"><use href="#row5"></use></g>
+    <g transform="translate(0,410)"><use href="#row6"></use></g>
+    <g transform="translate(0,470)"><use href="#row5"></use></g>
+    <g transform="translate(0,530)"><use href="#row6"></use></g>
+  </g>
+</svg>
