@@ -1,0 +1,152 @@
+AirportCode, Override_IATA
+Delhi, DEL
+Mumbai, BOM
+Kolkata, CCU
+Bengaluru, BLR
+Chennai, MAA
+Hyderabad, HYD
+London, LHR
+Paris, CDG
+Madrid, MAD
+Barcelona, BCN
+Dublin, DUB
+Lisbon, LIS
+Frankfurt, FRA
+Prague, PRG
+Zurich, ZRH
+Argentina, EZE
+Brazil, GRU
+Abu Dhabi, AUH
+Kochi,COK
+Ahmedabad,AMD
+Guwahati,GAU
+Vizag,VTZ
+Varanasi,VNS
+New York,JFK
+Atlanta,ATL
+Newark,EWR
+Linthicum,BWI
+Boston,BOS
+Dulles,IAD
+Warwick,PVD
+Chicago,ORD
+Dallas,DFW
+MinneapoLis,MSP
+Denver,DEN
+St Louis,STL
+Amsterdam,AMS
+Vienna,VIE
+Warsaw,WAW
+Munich,MUC
+Hungary,BUD
+Rome,FCO
+Catania,CTA
+Spain,MAD
+Portugal,LIS
+Italy,FCO
+Columbia,
+Panama,PTY
+Venezuela,CCS
+Medellin,MDE
+Chile,SCL
+Sydney,SYD
+Brisbane,BNE
+Melbourne,MEL
+Perth,PER
+Auckland,AKL
+Wellington,WLG
+Christchurch,CHC
+Peru,LIM
+Ecuador,UIO
+Mendoza,MDZ
+Adelaide,ADL
+Canberra,CBR
+Hobart,HBA
+Darwin,DRW
+Karachi,KHI
+Islamabad,ISB
+Lahore,LHE
+Peshawar,PEW
+Dhaka,DAC
+Chittagong,CGP
+Sylhet,ZYL
+Kathmandu,KTM
+Pokhara,PKR
+Colombo,CMB
+Jaffna,JAF
+Kandy,KDW
+Male,MLE
+Gan Island,GAN
+Hulhule,MLE
+Paro,PBH
+Kabul,KBL
+Herat,HEA
+Kandahar,KDH
+Patna,PAT
+Jaipur,JAI
+Chandigarh,IXC
+Amritsar,ATQ
+Pune,PNQ
+Coimbatore,CJB
+Visakhapatnam,VTZ
+Bhubaneswar,BBI
+Indore,IDR
+Nagpur,NAG
+Dubai,DXB
+Sharjah,SHJ
+Riyadh,RUH
+Jeddah,JED
+Dammam,DMM
+Medina,MED
+Cairo,CAI
+Alexandria,HBE
+Luxor,LXR
+Aswan,ASW
+Casablanca,CMN
+Algiers,ALG
+Oran,ORN
+Marrakech,RAK
+Agadir,AGA
+Constantine,CZL
+Amman,AMM
+Beirut,BEY
+Aqaba,AQJ
+Tunis,TUN
+Tripoli,TIP
+Benghazi,BEN
+Muscat,MCT
+Kuwait City,KWI
+Salalah,SLL
+Khasab,KHS
+Sana'a,SAH
+Khartoum,KRT
+Aden,ADE
+Port Sudan,PZU
+Damascus,DAM
+Gaza,GZA
+Aleppo,ALP
+Latakia,LTK
+Arlington,DCA
+Miami,MIA
+Houston,IAH
+Los Angeles,LAX
+Detroit,DTW
+Manchester,MAN
+Geneva,GVA
+Paraguay,ASU
+Uruguay,MVD
+Cairns,CNS
+Faisalabad,LYP
+Quetta,UET
+Cox's Bazar,CXB
+Lucknow,LKO
+Srinagar,SXR
+Doha,DOH
+Manama,BAH
+Istanbul,IST
+Marseille,MRS
+Djerba,DJE
+Djibouti,JIB
+Berlin,BER
+Yogyakarta (YIA),YIA
+Astana (NQZ),NQZ

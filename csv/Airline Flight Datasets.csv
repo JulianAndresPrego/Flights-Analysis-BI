@@ -1,0 +1,761 @@
+airline,flight_number,Origin,Destination,Scheduled_Departure_Time,Scheduled_Arrival_time,Aircraft_Type,No_of_Passengers,Direct_Flights
+IndiGo,6E 123,Delhi,Mumbai,6:00,8:00,Airbus A320,175,Yes
+Air India,AI 456,Mumbai,Delhi,7:00,9:00,Boeing 777,210,Yes
+Vistara,UK 789,Bengaluru,Delhi,8:00,10:30,Airbus A321,232,Yes
+SpiceJet,SG 234,Hyderabad,Mumbai,9:00,10:30,Boeing 737,162,Yes
+IndiGo,6E 567,Kolkata,Mumbai,10:00,12:30,Airbus A320,175,Yes
+Air India,AI 890,Delhi,Bengaluru,11:00,13:30,Boeing 777,210,Yes
+Vistara,UK 121,Mumbai,Hyderabad,12:00,13:30,Airbus A320,175,Yes
+SpiceJet,SG 345,Delhi,Kolkata,13:00,15:30,Boeing 737,162,Yes
+IndiGo,6E 678,Mumbai,Chennai,14:00,16:00,Airbus A321,232,Yes
+Air India,AI 901,Delhi,Kolkata,15:00,17:30,Boeing 777,210,Yes
+Vistara,UK 232,Bengaluru,Mumbai,16:00,17:30,Airbus A320,175,Yes
+SpiceJet,SG 456,Hyderabad,Delhi,17:00,19:00,Boeing 737,162,Yes
+IndiGo,6E 789,Kolkata,Delhi,18:00,20:30,Airbus A320,175,Yes
+Air India,AI 123,Chennai,Mumbai,19:00,21:00,Airbus A321,232,Yes
+Vistara,UK 343,Mumbai,Delhi,20:00,22:00,Airbus A320,175,Yes
+SpiceJet,SG 567,Delhi,Hyderabad,21:00,23:00,Boeing 737,162,Yes
+IndiGo,6E 890,Delhi,Kochi,22:00,0:30,Airbus A321,232,Yes
+Air India,AI 234,Mumbai,Ahmedabad,23:00,0:00,Boeing 777,210,Yes
+Vistara,UK 456,Bengaluru,Kolkata,23:30,2:00,Airbus A321,232,Yes
+SpiceJet,SG 678,Hyderabad,Chennai,0:00,1:30,Boeing 737,162,Yes
+IndiGo,6E 901,Kochi,Delhi,6:00,8:30,Airbus A321,232,Yes
+Air India,AI 345,Ahmedabad,Mumbai,7:30,8:30,Boeing 777,210,Yes
+Vistara,UK 567,Kolkata,Bengaluru,8:00,10:30,Airbus A321,232,Yes
+SpiceJet,SG 789,Chennai,Hyderabad,9:30,11:00,Boeing 737,162,Yes
+IndiGo,6E 122,Delhi,Varanasi,10:00,11:30,Airbus A320,175,Yes
+Air India,AI 455,Mumbai,Kochi,11:00,13:30,Boeing 777,210,Yes
+Vistara,UK 788,Bengaluru,Guwahati,12:00,14:30,Airbus A321,232,Yes
+SpiceJet,SG 233,Hyderabad,Vizag,13:00,14:30,Boeing 737,162,Yes
+IndiGo,6E 566,Kolkata,Delhi,14:00,16:30,Airbus A320,175,Yes
+Air India,AI 889,Delhi,Chennai,15:00,18:00,Boeing 777,210,Yes
+Vistara,UK 120,Mumbai,Kochi,16:00,18:30,Airbus A320,175,Yes
+SpiceJet,SG 344,Delhi,Ahmedabad,17:00,18:00,Boeing 737,162,Yes
+IndiGo,6E 677,Mumbai,Varanasi,18:00,19:30,Airbus A321,232,Yes
+Air India,AI 900,Delhi,Guwahati,19:00,21:30,Boeing 777,210,Yes
+Vistara,UK 231,Bengaluru,Vizag,20:00,21:30,Airbus A321,232,Yes
+SpiceJet,SG 455,Hyderabad,Kolkata,21:00,23:00,Boeing 737,162,Yes
+IndiGo,6E 788,Kolkata,Chennai,22:00,0:30,Airbus A320,175,Yes
+Air India,AI 121,Chennai,Delhi,23:00,2:00,Boeing 777,210,Yes
+Vistara,UK 342,Mumbai,Guwahati,23:30,2:00,Airbus A321,232,Yes
+SpiceJet,SG 566,Delhi,Varanasi,0:00,1:30,Boeing 737,162,Yes
+IndiGo,6E 234,Kochi,Mumbai,7:00,9:30,Airbus A321,232,Yes
+Air India,AI 567,Ahmedabad,Delhi,8:00,9:00,Boeing 777,210,Yes
+Vistara,UK 678,Guwahati,Bengaluru,9:00,11:30,Airbus A321,232,Yes
+SpiceJet,SG 890,Vizag,Hyderabad,10:30,12:00,Boeing 737,162,Yes
+IndiGo,6E 345,Varanasi,Delhi,11:00,12:30,Airbus A320,175,Yes
+Air India,AI 678,Kochi,Mumbai,12:00,14:30,Boeing 777,210,Yes
+Vistara,UK 901,Guwahati,Delhi,13:00,15:30,Airbus A321,232,Yes
+SpiceJet,SG 123,Vizag,Mumbai,14:00,15:30,Boeing 737,162,Yes
+IndiGo,6E 456,Delhi,Kochi,15:00,17:30,Airbus A321,232,Yes
+Air India,AI 789,Mumbai,Ahmedabad,16:00,17:00,Boeing 777,210,Yes
+Vistara,UK 123,Bengaluru,Kolkata,17:00,19:30,Airbus A321,232,Yes
+SpiceJet,SG 234,Hyderabad,Chennai,18:00,19:30,Boeing 737,162,Yes
+IndiGo,6E 567,Kolkata,Delhi,19:00,21:30,Airbus A320,175,Yes
+Air India,AI 890,Chennai,Mumbai,20:00,22:00,Boeing 777,210,Yes
+Vistara,UK 232,Mumbai,Delhi,21:00,23:00,Airbus A320,175,Yes
+SpiceJet,SG 345,Delhi,Hyderabad,22:00,0:00,Boeing 737,162,Yes
+IndiGo,6E 678,Delhi,Varanasi,23:00,0:30,Airbus A320,175,Yes
+Air India,AI 901,Mumbai,Kochi,23:30,2:00,Boeing 777,210,Yes
+Vistara,UK 343,Bengaluru,Guwahati,0:00,2:30,Airbus A321,232,Yes
+SpiceJet,SG 456,Hyderabad,Vizag,1:00,2:30,Boeing 737,162,Yes
+American Airlines,AA 321,New York,Boston,7:00,8:00,Boeing 737,162,Yes
+Delta Airlines,DL 234,Atlanta,Arlington,8:00,9:30,Airbus A320,175,Yes
+United Airlines,UA 789,Newark,Dulles,9:00,10:30,Boeing 777,210,Yes
+Southwest Airlines,WN 234,Linthicum,Warwick,10:00,11:00,Boeing 737,162,Yes
+American Airlines,AA 456,New York,Miami,11:00,14:00,Airbus A321,232,Yes
+Delta Airlines,DL 567,Boston,New York,12:00,13:00,Boeing 737,162,Yes
+United Airlines,UA 890,Dulles,Newark,13:00,14:30,Boeing 777,210,Yes
+Southwest Airlines,WN 456,Warwick,Linthicum,14:00,15:00,Boeing 737,162,Yes
+American Airlines,AA 678,New York,Miami,15:00,18:00,Airbus A321,232,Yes
+Delta Airlines,DL 789,Atlanta,Arlington,16:00,17:30,Airbus A320,175,Yes
+United Airlines,United Airlines234,Chicago,Denver,7:00,9:00,Boeing 737,162,Yes
+American Airlines,AA 345,Dallas,Chicago,8:00,10:00,Airbus A321,232,Yes
+Delta Airlines,DL 456,MinneapoLis,Atlanta,9:00,11:30,Boeing 737,162,Yes
+Southwest Airlines,WN 678,Chicago,St Louis,10:00,11:00,Boeing 737,162,Yes
+United Airlines,UA 567,Denver,Houston,11:00,12:30,Boeing 737,162,Yes
+American Airlines,AA 678,Dallas,Los Angeles,12:00,14:00,Airbus A321,232,Yes
+Delta Airlines,DL 789,MinneapoLis,Detroit,13:00,14:30,Boeing 737,162,Yes
+Southwest Airlines,WN 890,St Louis,Chicago,14:00,15:00,Boeing 737,162,Yes
+United Airlines,United Airlines901,Chicago,Houston,15:00,17:00,Boeing 737,162,Yes
+American Airlines,AA 123,Dallas,SFO,16:00,18:00,Airbus A321,232,Yes
+British Airways,BA 246,London,Paris,7:00,8:30,Airbus A320,175,Yes
+Lufthansa,LH 457,Frankfurt,Amsterdam,8:00,9:00,Boeing 737,162,Yes
+Air France,AF 678,Paris,Madrid,9:00,11:00,Airbus A321,232,Yes
+Royal Dutch Airlines,KL 890,Amsterdam,London,10:00,11:00,Boeing 737,162,Yes
+Iberia,IB 567,Madrid,Barcelona,11:00,12:00,Airbus A320,175,Yes
+British Airways,BA 345,London,Dublin,12:00,13:30,Airbus A320,175,Yes
+Lufthansa,LH 568,Frankfurt,Vienna,13:00,14:30,Airbus A320,175,Yes
+Air France,AF 789,Paris,Rome,14:00,16:00,Airbus A321,232,Yes
+Royal Dutch Airlines,KL 901,Amsterdam,Manchester,15:00,16:00,Boeing 737,162,Yes
+Iberia,IB 678,Madrid,Lisbon,16:00,17:00,Airbus A320,175,Yes
+Lufthansa,LH 789,Frankfurt,Prague,7:00,8:00,Airbus A320,175,Yes
+Austrian Airlines,OS 234,Vienna,Munich,8:00,9:00,Embraer E195,126,Yes
+Swift International Airlines,LX 456,Zurich,Berlin,9:00,10:30,Airbus A320,175,Yes
+LOT Polish Airlines,LO 567,Warsaw,Hungary,10:00,11:30,Boeing 737,162,Yes
+Lufthansa,LH 890,Munich,Frankfurt,11:00,12:00,Airbus A320,175,Yes
+Austrian Airlines,OS 345,Vienna,Zurich,12:00,13:30,Embraer E195,126,Yes
+Swift International Airlines,LX 567,Berlin,Geneva,13:00,14:30,Airbus A320,175,Yes
+LOT Polish Airlines,LO 678,Hungary,Warsaw,14:00,15:30,Boeing 737,162,Yes
+Lufthansa,LH 901,Frankfurt,Vienna,15:00,16:30,Airbus A320,175,Yes
+Austrian Airlines,OS 456,Vienna,Munich,16:00,17:00,Embraer E195,126,Yes
+ITA Airways,AZ 123,Rome,Catania,7:00,8:30,Airbus A320,175,Yes
+Iberia,IB 234,Madrid,Spain,8:00,9:00,Airbus A320,175,Yes
+TAP protocol,TP 345,Lisbon,Portugal,9:00,10:00,Embraer E190,105,Yes
+ITA Airways,AZ 234,Catania,Rome,10:00,11:30,Airbus A320,175,Yes
+Iberia,IB 345,Spain,Madrid,11:00,12:00,Airbus A320,175,Yes
+TAP protocol,TP 456,Portugal,Lisbon,12:00,13:00,Embraer E190,105,Yes
+ITA Airways,AZ 345,Rome,Italy,13:00,14:00,Airbus A320,175,Yes
+Iberia,IB 456,Madrid,Spain,14:00,15:00,Airbus A320,175,Yes
+TAP protocol,TP 567,Lisbon,FAO,15:00,16:00,Embraer E190,105,Yes
+ITA Airways,AZ 456,Italy,Rome,16:00,17:00,Airbus A320,175,Yes
+Avianca,AV 123,Columbia,Venezuela,7:00,8:30,Airbus A320,175,Yes
+Copa Airlines,CM 234,Panama,Columbia,8:00,9:30,Boeing 737,162,Yes
+Avianca,AV 234,Venezuela,Columbia,9:00,10:30,Airbus A320,175,Yes
+Copa Airlines,CM 345,Panama,Venezuela,10:00,11:30,Boeing 737,162,Yes
+Avianca,AV 345,Columbia,Columbia,11:00,12:00,Airbus A320,175,Yes
+Copa Airlines,CM 456,Venezuela,Panama,12:00,13:30,Boeing 737,162,Yes
+Avianca,AV 456,Columbia,Columbia,13:00,14:00,Airbus A320,175,Yes
+Copa Airlines,CM 567,Panama,Medellin,14:00,15:00,Boeing 737,162,Yes
+Avianca,AV 567,Columbia,Panama,15:00,16:30,Airbus A320,175,Yes
+Copa Airlines,CM 678,Medellin,Panama,16:00,17:00,Boeing 737,162,Yes
+Gol Linhas Aereas,G3 890,Brazil,Argentina,7:00,9:00,Airbus A320,175,Yes
+Aeriolineas Argentinas,AR 123,Argentina,Chile,8:00,10:00,Boeing 737,162,Yes
+Gol Linhas Aereas,G3 234,Brazil,Brazil,9:00,10:00,Boeing 737,162,Yes
+Aeriolineas Argentinas,AR 234,Chile,Argentina,10:00,12:00,Boeing 737,162,Yes
+Gol Linhas Aereas,G3 345,Brazil,Paraguay,11:00,12:30,Airbus A320,175,Yes
+Aeriolineas Argentinas,AR 345,Argentina,Uruguay,12:00,13:00,Boeing 737,162,Yes
+Gol Linhas Aereas,G3 456,Brazil,Brazil,13:00,14:00,Boeing 737,162,Yes
+Qantas,QF 400,Sydney,Melbourne,7:00,8:30,Boeing 737,162,Yes
+Virgin Australia,VA 312,Brisbane,Sydney,8:00,9:30,Airbus A320,175,Yes
+Jetstar,JQ 520,Sydney,Brisbane,9:00,10:30,Airbus A320,175,Yes
+Qantas,QF 410,Melbourne,Sydney,10:00,11:30,Boeing 737,162,Yes
+Virgin Australia,VA 320,Brisbane,Melbourne,11:00,13:30,Airbus A320,175,Yes
+Qantas,QF 420,Sydney,Adelaide,12:00,14:00,Boeing 737,162,Yes
+Virgin Australia,VA 330,Melbourne,Brisbane,13:00,14:30,Airbus A320,175,Yes
+Jetstar,JQ 530,Sydney,Cairns,14:00,17:00,Airbus A320,175,Yes
+Qantas,QF 430,Melbourne,Cairns,15:00,18:00,Boeing 737,162,Yes
+Virgin Australia,VA 340,Brisbane,Adelaide,16:00,18:30,Airbus A320,175,Yes
+Qantas,QF 600,Perth,Melbourne,7:00,11:00,Boeing 737,162,Yes
+Virgin Australia,VA 410,Perth,Sydney,8:00,12:00,Airbus A320,175,Yes
+Jetstar,JQ 700,Perth,Brisbane,9:00,13:00,Airbus A320,175,Yes
+Qantas,QF 610,Melbourne,Perth,10:00,14:00,Boeing 737,162,Yes
+Virgin Australia,VA 420,Sydney,Perth,11:00,15:00,Airbus A320,175,Yes
+Air New Zealand,NZ 500,Auckland,Wellington,6:00,7:00,Airbus A320,175,Yes
+Air New Zealand,NZ 510,Wellington,Christchurch,8:00,8:45,Airbus A320,175,Yes
+Air New Zealand,NZ 520,Auckland,Christchurch,10:00,11:15,Airbus A320,175,Yes
+Air New Zealand,NZ 530,Christchurch,Auckland,12:00,13:15,Airbus A320,175,Yes
+Air New Zealand,NZ 540,Wellington,Auckland,14:00,15:00,Airbus A320,175,Yes
+Avianca,AV 678,Columbia,Ecuador,8:00,9:30,Boeing 737,162,Yes
+Avianca,AV 234,Peru,Columbia,9:00,11:00,Airbus A320,175,Yes
+LATAM Airlines,LA 567,Chile,Mendoza,10:00,11:30,Airbus A320,175,Yes
+Avianca,AV 789,Columbia,CUX,11:00,12:30,Boeing 737,162,Yes
+LATAM Airlines,LA 678,Peru,Chile,12:00,14:00,Airbus A320,175,Yes
+Avianca,AV 890,Ecuador,Columbia,13:00,14:30,Boeing 737,162,Yes
+LATAM Airlines,LA 789,Mendoza,Chile,14:00,15:30,Airbus A320,175,Yes
+Avianca,AV 901,Columbia,Peru,15:00,17:00,Airbus A320,175,Yes
+LATAM Airlines,LA 890,Chile,Columbia,16:00,18:00,Airbus A320,175,Yes
+Qantas,QF 800,Adelaide,Darwin,7:00,9:30,Boeing 717,130,Yes
+Virgin Australia,VA 600,Canberra,Melbourne,8:00,9:00,Embraer E190,105,Yes
+Jetstar,JQ 900,Hobart,Melbourne,9:00,10:30,Airbus A320,175,Yes
+Qantas,QF 810,Darwin,Brisbane,10:00,13:00,Boeing 717,130,Yes
+Virgin Australia,VA 610,Canberra,Sydney,11:00,12:00,Embraer E190,105,Yes
+Jetstar,JQ 910,Hobart,Sydney,12:00,13:30,Airbus A320,175,Yes
+Qantas,QF 820,Adelaide,Perth,13:00,15:00,Boeing 717,130,Yes
+Virgin Australia,VA 620,Melbourne,Canberra,14:00,15:00,Embraer E190,105,Yes
+Jetstar,JQ 920,Sydney,Hobart,15:00,16:30,Airbus A320,175,Yes
+Qantas,QF 830,Darwin,Adelaide,16:00,18:30,Boeing 717,130,Yes
+PIA,PK 300,Karachi,Lahore,7:00,8:45,Airbus A320,175,Yes
+Airblue,PA 201,Islamabad,Karachi,8:00,9:45,Airbus A320,175,Yes
+SereneAir,ER 102,Lahore,Islamabad,9:00,10:00,Boeing 737,162,Yes
+PIA,PK 301,Karachi,Islamabad,10:00,12:00,Airbus A320,175,Yes
+Airblue,PA 202,Islamabad,Lahore,11:00,12:00,Airbus A320,175,Yes
+SereneAir,ER 103,Lahore,Karachi,12:00,13:45,Boeing 737,162,Yes
+PIA,PK 302,Lahore,Peshawar,13:00,14:00,Airbus A320,175,Yes
+Airblue,PA 203,Karachi,Faisalabad,14:00,15:00,Airbus A320,175,Yes
+SereneAir,ER 104,Islamabad,Quetta,15:00,16:30,Boeing 737,162,Yes
+PIA,PK 303,Peshawar,Karachi,16:00,18:00,Airbus A320,175,Yes
+Biman Bangladesh Airlines,BG 101,Dhaka,Chittagong,7:00,7:45,Boeing 737,162,Yes
+US-Bangla Airlines,BS 202,Dhaka,Sylhet,8:00,8:45,Airbus A320,175,Yes
+Biman Bangladesh Airlines,BG 102,Chittagong,Dhaka,9:00,9:45,Boeing 737,162,Yes
+US-Bangla Airlines,BS 203,Sylhet,Dhaka,10:00,10:45,Airbus A320,175,Yes
+Biman Bangladesh Airlines,BG 103,Dhaka,Cox's Bazar,11:00,12:00,Boeing 737,162,Yes
+Yeti Airlines,YT 401,Kathmandu,Pokhara,9:00,9:30,ATR 72,65,Yes
+Buddha Air,BA 502,Kathmandu,Bhairahawa,10:00,10:45,ATR 42,#N/A,Yes
+Yeti Airlines,YT 402,Pokhara,Kathmandu,11:00,11:30,ATR 72,65,Yes
+Buddha Air,BA 503,Bhairahawa,Kathmandu,12:00,12:45,ATR 42,#N/A,Yes
+Nepal Airlines,RA 601,Kathmandu,Delhi,13:00,14:30,Airbus A320,175,Yes
+SriLankan Airlines,UL 101,Colombo,Jaffna,7:00,7:45,Airbus A320,175,Yes
+Cinnamon Air,C7 202,Colombo,Kandy,8:00,8:30,Cessna 208,20,Yes
+SriLankan Airlines,UL 102,Jaffna,Colombo,9:00,9:45,Airbus A320,175,Yes
+Cinnamon Air,C7 203,Kandy,Colombo,10:00,10:30,Cessna 208,20,Yes
+SriLankan Airlines,UL 103,Colombo,Male,11:00,12:30,Airbus A321,232,Yes
+Maldivian,Q2 301,Male,Gan Island,9:00,10:00,Dash 8,79,Yes
+Trans Maldivian Airways,DHC 401,Male,Hulhule,10:00,10:30,Twin Otter,24,Yes
+Maldivian,Q2 302,Gan Island,Male,11:00,12:00,Dash 8,79,Yes
+Trans Maldivian Airways,DHC 402,Hulhule,Male,11:30,12:00,Twin Otter,24,Yes
+SriLankan Airlines,UL 104,Male,Colombo,13:30,15:00,Airbus A321,232,Yes
+Drukair,KB 101,Paro,Delhi,7:00,9:30,Airbus A320,175,Yes
+Bhutan Airlines,B3 202,Paro,Kolkata,8:00,9:00,Airbus A319,149,Yes
+Drukair,KB 102,Delhi,Paro,10:00,12:30,Airbus A320,175,Yes
+Bhutan Airlines,B3 203,Kolkata,Paro,11:00,12:00,Airbus A319,149,Yes
+Ariana Afghan Airlines,FG 501,Kabul,Herat,9:00,10:30,Boeing 737,162,Yes
+Kam Air,RQ 602,Kabul,Kandahar,10:00,11:00,Boeing 737,162,Yes
+Ariana Afghan Airlines,FG 502,Herat,Kabul,11:30,13:00,Boeing 737,162,Yes
+Kam Air,RQ 603,Kandahar,Kabul,12:00,13:00,Boeing 737,162,Yes
+Ariana Afghan Airlines,FG 503,Kabul,Delhi,14:00,16:00,Boeing 737,162,Yes
+Kam Air,RQ 604,Kabul,Dubai,15:00,17:00,Boeing 737,162,Yes
+IndiGo,6E 890,Kolkata,Guwahati,7:00,8:30,Airbus A320,175,Yes
+Air India,AI 123,Ahmedabad,Delhi,8:00,9:30,Boeing 777,210,Yes
+SpiceJet,SG 456,Guwahati,Kolkata,9:00,10:30,Boeing 737,162,Yes
+Vistara,UK 901,Ahmedabad,Mumbai,10:00,11:00,Airbus A321,232,Yes
+GoAir,G8 234,Kolkata,Patna,11:00,12:00,Airbus A320,175,Yes
+IndiGo,6E 901,Guwahati,Delhi,12:00,14:30,Airbus A320,175,Yes
+Air India,AI 234,Ahmedabad,Bengaluru,13:00,15:00,Boeing 777,210,Yes
+SpiceJet,SG 567,Patna,Kolkata,14:00,15:00,Boeing 737,162,Yes
+Vistara,UK 123,Guwahati,Mumbai,15:00,17:30,Airbus A321,232,Yes
+GoAir,G8 345,Ahmedabad,Chennai,16:00,18:00,Airbus A320,175,Yes
+IndiGo,6E 101,Jaipur,Lucknow,7:00,8:30,Airbus A320,175,Yes
+Air India,AI 202,Varanasi,Delhi,8:00,9:30,Boeing 737,162,Yes
+SpiceJet,SG 303,Chandigarh,Srinagar,9:00,10:00,Bombardier Q400,88,Yes
+Vistara,UK 404,Amritsar,Mumbai,10:00,12:30,Airbus A320,175,Yes
+GoAir,G8 505,Pune,Ahmedabad,11:00,12:30,Airbus A320,175,Yes
+IndiGo,6E 606,Coimbatore,Hyderabad,12:00,13:00,Airbus A320,175,Yes
+Air India,AI 707,Visakhapatnam,Kolkata,13:00,14:30,Airbus A321,232,Yes
+SpiceJet,SG 808,Bhubaneswar,Guwahati,14:00,15:30,Boeing 737,162,Yes
+Vistara,UK 909,Indore,Delhi,15:00,16:30,Airbus A320,175,Yes
+GoAir,G8 110,Nagpur,Bengaluru,16:00,18:00,Airbus A320,175,Yes
+Emirates,EK 203,Dubai,Abu Dhabi,7:00,8:00,Airbus A380,625,Yes
+Etihad Airways,EY 301,Abu Dhabi,Dubai,8:00,9:00,Boeing 787,299,Yes
+Flydubai,FZ 405,Dubai,Muscat,9:00,10:15,Boeing 737,162,Yes
+Air Arabia,G9 502,Sharjah,Doha,10:00,11:15,Airbus A320,175,Yes
+Emirates,EK 215,Dubai,Riyadh,11:00,13:00,Airbus A380,625,Yes
+Etihad Airways,EY 317,Abu Dhabi,Jeddah,12:00,14:00,Boeing 787,299,Yes
+Flydubai,FZ 419,Dubai,Manama,13:00,14:15,Boeing 737,162,Yes
+Air Arabia,G9 523,Sharjah,Kuwait City,14:00,15:30,Airbus A320,175,Yes
+Emirates,EK 221,Dubai,Cairo,15:00,17:30,Airbus A380,625,Yes
+Etihad Airways,EY 325,Abu Dhabi,Amman,16:00,18:00,Boeing 787,299,Yes
+Saudia,SV 305,Riyadh,Jeddah,7:00,8:30,Boeing 777,210,Yes
+Flynas,XY 401,Jeddah,Riyadh,8:00,9:30,Airbus A320,175,Yes
+Saudia,SV 315,Riyadh,Dammam,9:00,10:00,Boeing 777,210,Yes
+Flynas,XY 411,Dammam,Riyadh,10:00,11:00,Airbus A320,175,Yes
+Saudia,SV 321,Jeddah,Medina,11:00,11:45,Boeing 777,210,Yes
+Flynas,XY 425,Medina,Jeddah,12:00,12:45,Airbus A320,175,Yes
+Saudia,SV 333,Riyadh,Cairo,13:00,15:00,Boeing 777,210,Yes
+Flynas,XY 431,Jeddah,Dubai,14:00,16:00,Airbus A320,175,Yes
+Saudia,SV 345,Dammam,Amman,15:00,17:00,Boeing 777,210,Yes
+Flynas,XY 437,Riyadh,Beirut,16:00,18:00,Airbus A320,175,Yes
+EgyptAir,MS 401,Cairo,Alexandria,7:00,7:45,Airbus A320,175,Yes
+Nile Air,NP 502,Alexandria,Cairo,8:00,8:45,Airbus A321,232,Yes
+EgyptAir,MS 411,Cairo,Luxor,9:00,10:00,Boeing 737,162,Yes
+Nile Air,NP 515,Luxor,Cairo,10:00,11:00,Airbus A321,232,Yes
+EgyptAir,MS 423,Cairo,Aswan,11:00,12:15,Boeing 737,162,Yes
+Nile Air,NP 527,Aswan,Cairo,12:00,13:15,Airbus A321,232,Yes
+EgyptAir,MS 435,Cairo,Jeddah,13:00,15:00,Boeing 777,210,Yes
+Nile Air,NP 533,Alexandria,Riyadh,14:00,16:00,Airbus A321,232,Yes
+EgyptAir,MS 441,Luxor,Dubai,15:00,18:00,Boeing 777,210,Yes
+Nile Air,NP 545,Aswan,Amman,16:00,18:00,Airbus A321,232,Yes
+Royal Air Maroc,AT 501,Casablanca,Marrakech,7:00,8:00,Boeing 737,162,Yes
+Air Algerie,AH 602,Algiers,Oran,8:00,9:00,Boeing 737,162,Yes
+Royal Air Maroc,AT 511,Casablanca,Agadir,9:00,10:00,Boeing 737,162,Yes
+Air Algerie,AH 615,Oran,Algiers,10:00,11:00,Boeing 737,162,Yes
+Royal Air Maroc,AT 523,Marrakech,Casablanca,11:00,12:00,Boeing 737,162,Yes
+Air Algerie,AH 621,Algiers,Constantine,12:00,13:00,Boeing 737,162,Yes
+Royal Air Maroc,AT 535,Casablanca,Paris,13:00,17:00,Boeing 787,299,Yes
+Air Algerie,AH 633,Algiers,Istanbul,14:00,18:00,Boeing 737,162,Yes
+Royal Air Maroc,AT 541,Agadir,Madrid,15:00,17:00,Boeing 737,162,Yes
+Air Algerie,AH 645,Constantine,Marseille,16:00,18:00,Boeing 737,162,Yes
+Royal Jordanian,RJ 601,Amman,Aqaba,7:00,7:45,Airbus A320,175,Yes
+Middle East Airlines,ME 702,Beirut,Amman,8:00,9:00,Airbus A321,232,Yes
+Royal Jordanian,RJ 611,Amman,Cairo,9:00,11:00,Airbus A320,175,Yes
+Middle East Airlines,ME 715,Beirut,Dubai,10:00,14:00,Airbus A321,232,Yes
+Royal Jordanian,RJ 623,Aqaba,Amman,11:00,11:45,Airbus A320,175,Yes
+Middle East Airlines,ME 721,Beirut,Jeddah,12:00,14:00,Airbus A321,232,Yes
+Royal Jordanian,RJ 635,Amman,London,13:00,17:00,Boeing 787,299,Yes
+Middle East Airlines,ME 733,Beirut,Paris,14:00,18:00,Airbus A321,232,Yes
+Royal Jordanian,RJ 641,Aqaba,Istanbul,15:00,18:00,Airbus A320,175,Yes
+Middle East Airlines,ME 745,Beirut,Rome,16:00,18:00,Airbus A321,232,Yes
+Tunisair,TU 701,Tunis,Djerba,7:00,8:00,Airbus A320,175,Yes
+Libyan Airlines,LN 802,Tripoli,Benghazi,8:00,9:00,Airbus A330,419,Yes
+Tunisair,TU 711,Tunis,Monastir,9:00,9:30,Airbus A320,#N/A,Yes
+Libyan Airlines,LN 815,Benghazi,Tripoli,10:00,11:00,Airbus A330,419,Yes
+Tunisair,TU 723,Djerba,Tunis,11:00,12:00,Airbus A320,#N/A,Yes
+Libyan Airlines,LN 821,Tripoli,Istanbul,12:00,15:00,Airbus A330,419,Yes
+Tunisair,TU 735,Tunis,Paris,13:00,16:00,Airbus A320,#N/A,Yes
+Libyan Airlines,LN 833,Benghazi,Cairo,14:00,16:00,Airbus A330,419,Yes
+Tunisair,TU 741,Monastir,Rome,15:00,16:30,Airbus A320,#N/A,Yes
+Libyan Airlines,LN 845,Tripoli,Amman,16:00,18:00,Airbus A330,419,Yes
+Oman Air,WY 801,Muscat,Salalah,7:00,8:30,Boeing 737,162,Yes
+Kuwait Airways,KU 902,Kuwait City,Dubai,8:00,9:30,Airbus A320,175,Yes
+Oman Air,WY 811,Muscat,Khasab,9:00,10:00,Boeing 737,162,Yes
+Kuwait Airways,KU 915,Kuwait City,Jeddah,10:00,12:00,Airbus A320,175,Yes
+Oman Air,WY 823,Salalah,Muscat,11:00,12:30,Boeing 737,162,Yes
+Kuwait Airways,KU 921,Dubai,Kuwait City,12:00,13:30,Airbus A320,175,Yes
+Oman Air,WY 835,Muscat,Mumbai,13:00,16:00,Boeing 737,162,Yes
+Kuwait Airways,KU 933,Kuwait City,London,14:00,18:00,Airbus A320,175,Yes
+Oman Air,WY 841,Khasab,Muscat,15:00,16:00,Boeing 737,162,Yes
+Kuwait Airways,KU 945,Kuwait City,Cairo,16:00,18:00,Airbus A320,175,Yes
+Yemenia,IY 901,Sana'a,Aden,7:00,8:00,Airbus A320,175,Yes
+Sudan Airways,SD 102,Khartoum,Port Sudan,8:00,9:00,Boeing 737,162,Yes
+Yemenia,IY 911,Sana'a,Cairo,9:00,11:00,Airbus A320,175,Yes
+Sudan Airways,SD 115,Khartoum,Jeddah,10:00,12:00,Boeing 737,162,Yes
+Yemenia,IY 923,Aden,Sana'a,11:00,12:00,Airbus A320,175,Yes
+Sudan Airways,SD 121,Port Sudan,Khartoum,12:00,13:00,Boeing 737,162,Yes
+Yemenia,IY 935,Sana'a,Mumbai,13:00,17:00,Airbus A320,175,Yes
+Sudan Airways,SD 133,Khartoum,Dubai,14:00,17:00,Boeing 737,162,Yes
+Yemenia,IY 941,Aden,Djibouti,15:00,16:00,Airbus A320,175,Yes
+Sudan Airways,SD 145,Khartoum,Cairo,16:00,18:00,Boeing 737,162,Yes
+Syrian Air,RB 101,Damascus,Aleppo,7:00,7:45,Airbus A320,175,Yes
+Palestinian Airlines,P9 202,Gaza,Amman,8:00,9:00,Boeing 737,162,Yes
+Syrian Air,RB 111,Damascus,Latakia,9:00,9:30,Airbus A320,175,Yes
+Palestinian Airlines,P9 215,Gaza,Cairo,10:00,11:00,Boeing 737,162,Yes
+Syrian Air,RB 123,Aleppo,Damascus,11:00,11:45,Airbus A320,175,Yes
+Palestinian Airlines,P9 221,Amman,Gaza,12:00,13:00,Boeing 737,162,Yes
+Syrian Air,RB 135,Damascus,Dubai,13:00,16:00,Airbus A320,175,Yes
+Palestinian Airlines,P9 233,Gaza,Jeddah,14:00,16:00,Boeing 737,162,Yes
+Syrian Air,RB 141,Latakia,Damascus,15:00,15:45,Airbus A320,175,Yes
+Palestinian Airlines,P9 245,Gaza,Istanbul,16:00,19:00,Boeing 737,162,Yes
+United Airlines,UA 90,New York (JFK),London (LHR),18:00,06:00 AM (+1),Boeing 777,210,Yes
+British Airways,BA 114,London (LHR),New York (JFK),10:00,13:00,Airbus A380,625,Yes
+Air France,AF 022,Paris (CDG),Los Angeles (LAX),14:00,17:00,Boeing 777,210,Yes
+Delta Airlines,DL 234,Los Angeles (LAX),Paris (CDG),18:00,01:00 PM (+1),Airbus A350,386,Yes
+Lufthansa,LH 418,Frankfurt (FRA),Chicago (ORD),10:00,12:00,Boeing 747,#N/A,Yes
+American Airlines,AA 715,Chicago (ORD),Frankfurt (FRA),15:00,07:00 AM (+1),Boeing 787,299,Yes
+Iberia,IB 6250,Madrid (MAD),Miami (MIA),12:00,16:00,Airbus A330,#N/A,Yes
+Iberia,IB 6251,Miami (MIA),Madrid (MAD),18:00,08:00 AM (+1),Airbus A330,#N/A,Yes
+Virgin Atlantic,VS 004,London (LHR),San Francisco (SFO),11:00,14:00,Boeing 787,299,Yes
+United Airlines,UA 926,San Francisco (SFO),London (LHR),16:00,09:00 AM (+1),Boeing 787,299,Yes
+ANA,NH 005,Tokyo (HND),Los Angeles (LAX),22:00,16:00,Boeing 777,210,Yes
+United Airlines,UA 876,Los Angeles (LAX),Tokyo (HND),13:00,05:00 PM (+1),Boeing 787,299,Yes
+Korean Air,KE 017,Seoul (ICN),New York (JFK),9:00,11:00,Airbus A350,386,Yes
+Asiana Airlines,OZ 202,New York (JFK),Seoul (ICN),13:00,05:00 PM (+1),Airbus A350,386,Yes
+Singapore Airlines,SQ 026,Singapore (SIN),San Francisco (SFO),8:00,8:30,Airbus A350,386,Yes
+United Airlines,UA 002,San Francisco (SFO),Singapore (SIN),22:00,06:30 AM (+2),Airbus A350,386,Yes
+Cathay Pacific,CX 888,Hong Kong (HKG),Chicago (ORD),12:00,14:00,Boeing 777,210,Yes
+American Airlines,AA 128,Chicago (ORD),Hong Kong (HKG),13:00,05:00 PM (+1),Boeing 777,210,Yes
+Japan Airlines,JL 001,Tokyo (HND),New York (JFK),9:00,11:00,Boeing 777,210,Yes
+United Airlines,UA 79,New York (JFK),Tokyo (HND),13:00,05:00 PM (+1),Boeing 777,210,Yes
+Turkish Airlines,TK 015,Istanbul (IST),Tokyo (HND),1:00,19:00,Boeing 777,210,Yes
+Japan Airlines,JL 44,Tokyo (HND),Istanbul (IST),11:00,17:00,Boeing 777,210,Yes
+Emirates,EK 306,Dubai (DXB),Seoul (ICN),3:00,16:00,Airbus A380,625,Yes
+Korean Air,KE 932,Seoul (ICN),Dubai (DXB),18:00,23:00,Airbus A380,625,Yes
+Qatar Airways,QR 818,Doha (DOH),Singapore (SIN),2:00,15:00,Airbus A350,386,Yes
+Singapore Airlines,SQ 345,Singapore (SIN),Doha (DOH),19:00,22:00,Airbus A350,386,Yes
+Air France,AF 274,Paris (CDG),Shanghai (PVG),11:00,05:00 AM (+1),Boeing 777,210,Yes
+China Eastern,MU 570,Shanghai (PVG),Paris (CDG),13:00,19:00,Boeing 777,210,Yes
+Lufthansa,Lufthansa 730,Frankfurt (FRA),Hong Kong (HKG),10:00,04:00 AM (+1),Airbus A340,#N/A,Yes
+Cathay Pacific,CX 288,Hong Kong (HKG),Frankfurt (FRA),12:00,18:00,Airbus A340,#N/A,Yes
+Ethiopian Airlines,ET 702,Addis Ababa (ADD),Rome (FCO),9:00,13:00,Boeing 787,299,Yes
+Alitalia,AZ 837,Rome (FCO),Addis Ababa (ADD),16:00,22:00,Boeing 777,210,Yes
+EgyptAir,MS 800,Cairo (CAI),London (LHR),10:00,14:00,Boeing 777,210,Yes
+British Airways,BA 154,London (LHR),Cairo (CAI),8:00,14:00,Airbus A321,232,Yes
+Royal Air Maroc,AT 204,Casablanca (CMN),Paris (CDG),12:00,16:00,Boeing 737,162,Yes
+Air France,AF 744,Paris (CDG),Casablanca (CMN),9:00,11:00,Airbus A320,175,Yes
+South African Airways,SA 204,Johannesburg (JNB),Frankfurt (FRA),19:00,05:00 AM (+1),Airbus A340,#N/A,Yes
+Lufthansa,LH 573,Frankfurt (FRA),Johannesburg (JNB),22:00,08:00 AM (+1),Airbus A340,#N/A,Yes
+Kenya Airways,KQ 116,Nairobi (NBO),Amsterdam (AMS),22:00,06:00 AM (+1),Boeing 787,299,Yes
+Royal Dutch AirlinesM,KL 566,Amsterdam (AMS),Nairobi (NBO),12:00,20:00,Boeing 787,299,Yes
+Qantas,QF 029,Sydney (SYD),Hong Kong (HKG),9:00,16:00,Airbus A330,#N/A,Yes
+Cathay Pacific,CX 110,Hong Kong (HKG),Sydney (SYD),8:00,19:00,Airbus A330,#N/A,Yes
+Singapore Airlines,SQ 232,Melbourne (MEL),Singapore (SIN),7:00,14:00,Airbus A350,386,Yes
+Qantas,QF 001,Sydney (SYD),Singapore (SIN),8:00,15:00,Airbus A380,625,Yes
+Singapore Airlines,SQ 228,Singapore (SIN),Melbourne (MEL),19:30,05:00 AM (+1),Airbus A350,386,Yes
+Qantas,QF 002,Singapore (SIN),Sydney (SYD),19:00,04:30 AM (+1),Airbus A380,625,Yes
+Malaysia Airlines,MH 122,Kuala Lumpur (KUL),Sydney (SYD),22:00,07:30 AM (+1),Airbus A330,#N/A,Yes
+Qantas,QF 18,Sydney (SYD),Kuala Lumpur (KUL),10:00,17:30,Airbus A330,#N/A,Yes
+Thai Airways,TG 476,Bangkok (BKK),Melbourne (MEL),8:00,19:30,Boeing 787,299,Yes
+Qantas,QF 36,Melbourne (MEL),Bangkok (BKK),10:00,17:30,Boeing 787,299,Yes
+Ethiopian Airlines,ET 606,Addis Ababa (ADD),Mumbai (BOM),10:00,18:00,Boeing 787,299,Yes
+Air India,AI 679,Mumbai (BOM),Addis Ababa (ADD),20:00,23:30,Boeing 787,299,Yes
+Kenya Airways,KQ 886,Nairobi (NBO),Dubai (DXB),9:00,13:00,Boeing 737,162,Yes
+Emirates,EK 718,Dubai (DXB),Nairobi (NBO),15:00,19:00,Boeing 777,210,Yes
+South African Airways,SA 286,Johannesburg (JNB),Hong Kong (HKG),20:00,04:00 PM (+1),Airbus A340,#N/A,Yes
+Cathay Pacific,CX 748,Hong Kong (HKG),Johannesburg (JNB),10:00,18:00,Airbus A340,#N/A,Yes
+EgyptAir,MS 960,Cairo (CAI),Bangkok (BKK),22:00,08:00 AM (+1),Boeing 777,210,Yes
+Thai Airways,TG 644,Bangkok (BKK),Cairo (CAI),10:00,16:00,Boeing 777,210,Yes
+Royal Air Maroc,AT 512,Casablanca (CMN),Jeddah (JED),14:00,20:00,Boeing 737,162,Yes
+Saudia,SV 714,Jeddah (JED),Casablanca (CMN),9:00,15:00,Boeing 737,162,Yes
+LATAM AirlinesTAM,LA 532,Santiago (SCL),Miami (MIA),8:00,15:00,Boeing 787,299,Yes
+American Airlines,AA 910,Miami (MIA),Santiago (SCL),22:00,06:00 AM (+1),Boeing 787,299,Yes
+Avianca,AV 204,Bogota (BOG),New York (JFK),9:00,14:00,Airbus A321,232,Yes
+United Airlines,United Airlines852,New York (JFK),Bogota (BOG),16:00,20:00,Airbus A321,232,Yes
+Aerolineas Argentinas,AR 1302,Buenos Aires (EZE),Los Angeles (LAX),22:00,07:00 AM (+1),Airbus A330,#N/A,Yes
+United Airlines,United Airlines818,Los Angeles (LAX),Buenos Aires (EZE),21:00,06:00 AM (+1),Airbus A330,#N/A,Yes
+Copa Airlines,CM 210,Panama City (PTY),Chicago (ORD),8:00,13:00,Boeing 737,162,Yes
+American Airlines,AA 2100,Chicago (ORD),Panama City (PTY),15:00,18:00,Boeing 737,162,Yes
+Delta Airlines,DL 992,Sao Paulo (GRU),Atlanta (ATL),22:00,06:00 AM (+1),Boeing 767,261,Yes
+LATAM AirlinesTAM,LA 8000,Atlanta (ATL),Sao Paulo (GRU),20:00,06:00 AM (+1),Boeing 767,261,Yes
+Singapore Airlines,SQ 118,Singapore (SIN),Tokyo (HND),8:00,16:00,Airbus A350,386,Yes
+ANA,NH 802,Tokyo (HND),Singapore (SIN),18:00,12:00 AM (+1),Boeing 787,299,Yes
+Emirates,EK 384,Dubai (DXB),Hong Kong (HKG),9:00,22:00,Airbus A380,625,Yes
+Cathay Pacific,CX 749,Hong Kong (HKG),Dubai (DXB),7:00,12:00,Boeing 777,210,Yes
+Korean Air,KE 621,Seoul (ICN),Bangkok (BKK),10:00,14:00,Airbus A330,#N/A,Yes
+Thai Airways,TG 657,Bangkok (BKK),Seoul (ICN),16:00,22:00,Boeing 777,210,Yes
+Qatar Airways,QR 930,Doha (DOH),Manila (MNL),2:00,17:00,Boeing 777,210,Yes
+Philippine Airlines,PR 683,Manila (MNL),Doha (DOH),19:00,22:00,Airbus A330,#N/A,Yes
+Turkish Airlines,TK 060,Istanbul (IST),Jakarta (CGK),22:00,10:00 AM (+1),Airbus A330,#N/A,Yes
+Garuda Indonesia,GA 789,Jakarta (CGK),Istanbul (IST),12:00,18:00,Boeing 777,210,Yes
+Singapore Airlines,SQ 105,Singapore (SIN),Kuala Lumpur (KUL),7:00,8:00,Airbus A350,386,Yes
+AirAsia,AK 522,Kuala Lumpur (KUL),Singapore (SIN),8:30,9:30,Airbus A320,175,Yes
+Malaysia Airlines,MH 712,Kuala Lumpur (KUL),Penang (PEN),9:00,10:00,Boeing 737,162,Yes
+Scoot,TR 212,Singapore (SIN),Langkawi (LGK),10:00,11:15,Airbus A320,175,Yes
+Singapore Airlines,SQ 608,Singapore (SIN),Bangkok (BKK),11:00,12:30,Airbus A350,386,Yes
+AirAsia,AK 882,Kuala Lumpur (KUL),Jakarta (CGK),12:00,13:30,Airbus A320,175,Yes
+Malaysia Airlines,MH 782,Kuala Lumpur (KUL),Kota Kinabalu (BKI),13:00,15:30,Boeing 737,162,Yes
+Scoot,TR 434,Singapore (SIN),Ho Chi Minh City (SGN),14:00,15:30,Airbus A320,175,Yes
+Singapore Airlines,SQ 970,Singapore (SIN),Manila (MNL),15:00,18:00,Airbus A350,386,Yes
+AirAsia,AK 642,Kuala Lumpur (KUL),Phuket (HKT),16:00,17:00,Airbus A320,175,Yes
+Thai Airways,TG 202,Bangkok (BKK),Chiang Mai (CNX),7:00,8:15,Boeing 777,210,Yes
+Bangkok Airways,PG 305,Chiang Mai (CNX),Bangkok (BKK),8:45,10:00,Airbus A320,175,Yes
+Thai Airways,TG 602,Bangkok (BKK),Phuket (HKT),9:00,10:15,Boeing 777,210,Yes
+Nok Air,DD 8412,Phuket (HKT),Bangkok (BKK),10:45,12:00,Boeing 737,162,Yes
+Thai Airways,TG 502,Bangkok (BKK),Singapore (SIN),11:00,12:30,Boeing 777,210,Yes
+Bangkok Airways,PG 947,Chiang Mai (CNX),Krabi (KBV),12:00,13:30,Airbus A319,149,Yes
+Thai Airways,TG 632,Bangkok (BKK),Hat Yai (HDY),13:00,14:30,Boeing 737,162,Yes
+Nok Air,DD 8716,Hat Yai (HDY),Bangkok (BKK),15:00,16:30,Boeing 737,162,Yes
+Thai Airways,TG 656,Bangkok (BKK),Chiang Rai (CEI),14:00,15:15,Boeing 777,210,Yes
+Bangkok Airways,PG 203,Chiang Rai (CEI),Bangkok (BKK),15:45,17:00,Airbus A320,175,Yes
+Garuda Indonesia,GA 204,Jakarta (CGK),Denpasar (DPS),7:00,9:45,Airbus A330,#N/A,Yes
+Lion Air,JT 777,Denpasar (DPS),Jakarta (CGK),10:30,11:15,Boeing 737,162,Yes
+Garuda Indonesia,GA 302,Jakarta (CGK),Surabaya (SUB),9:00,10:15,Airbus A330,#N/A,Yes
+Citilink,QG 812,Surabaya (SUB),Jakarta (CGK),11:00,12:15,Airbus A320,175,Yes
+Garuda Indonesia,GA 650,Jakarta (CGK),Makassar (UPG),11:00,14:00,Boeing 737,162,Yes
+Lion Air,JT 720,Makassar (UPG),Jakarta (CGK),14:30,17:30,Boeing 737,162,Yes
+Garuda Indonesia,GA 512,Jakarta (CGK),Medan (KNO),13:00,15:30,Airbus A330,#N/A,Yes
+AirAsia Indonesia,QZ 126,Medan (KNO),Jakarta (CGK),16:00,18:30,Airbus A320,175,Yes
+Garuda Indonesia,GA 402,Jakarta (CGK),Yogyakarta (YIA),14:00,15:15,Airbus A330,#N/A,Yes
+Lion Air,JT 568,Yogyakarta (YIA),Jakarta (CGK),15:45,17:00,Boeing 737,162,Yes
+Philippine Airlines,PR 102,Manila (MNL),Cebu (CEB),7:00,8:15,Airbus A321,232,Yes
+Cebu Pacific,5J 551,Cebu (CEB),Manila (MNL),8:45,10:00,Airbus A320,175,Yes
+Philippine Airlines,PR 453,Manila (MNL),Davao (DVO),9:00,10:45,Airbus A321,232,Yes
+Cebu Pacific,5J 971,Davao (DVO),Manila (MNL),11:15,13:00,Airbus A320,175,Yes
+Philippine Airlines,PR 251,Manila (MNL),Puerto Princesa (PPS),11:00,12:30,Airbus A321,232,Yes
+AirAsia Philippines,Z2 321,Puerto Princesa (PPS),Manila (MNL),13:00,14:30,Airbus A320,175,Yes
+Philippine Airlines,PR 721,Manila (MNL),Iloilo (ILO),13:00,14:15,Airbus A321,232,Yes
+Cebu Pacific,5J 453,Iloilo (ILO),Manila (MNL),14:45,16:00,Airbus A320,175,Yes
+Philippine Airlines,PR 869,Manila (MNL),Bacolod (BCD),14:00,15:15,Airbus A321,232,Yes
+AirAsia Philippines,Z2 761,Bacolod (BCD),Manila (MNL),15:45,17:00,Airbus A320,175,Yes
+Vietnam Airlines,VN 221,Hanoi (HAN),Ho Chi Minh City (SGN),7:00,9:00,Airbus A321,232,Yes
+Vietjet Air,VJ 125,Ho Chi Minh City (SGN),Hanoi (HAN),9:30,11:30,Airbus A321,232,Yes
+Vietnam Airlines,VN 317,Hanoi (HAN),Da Nang (DAD),9:00,10:15,Airbus A321,232,Yes
+Vietjet Air,VJ 631,Da Nang (DAD),Hanoi (HAN),10:45,12:00,Airbus A321,232,Yes
+Vietnam Airlines,VN 257,Hanoi (HAN),Phu Quoc (PQC),11:00,13:15,Airbus A321,232,Yes
+Vietjet Air,VJ 323,Phu Quoc (PQC),Hanoi (HAN),13:45,16:00,Airbus A321,232,Yes
+Vietnam Airlines,VN 235,Hanoi (HAN),Nha Trang (CXR),13:00,14:45,Airbus A321,232,Yes
+Vietjet Air,VJ 441,Nha Trang (CXR),Hanoi (HAN),15:15,17:00,Airbus A321,232,Yes
+Vietnam Airlines,VN 245,Hanoi (HAN),Can Tho (VCA),14:00,16:15,Airbus A321,232,Yes
+Vietjet Air,VJ 551,Can Tho (VCA),Hanoi (HAN),16:45,19:00,Airbus A321,232,Yes
+Myanmar National Airlines,UB 102,Yangon (RGN),Mandalay (MDL),7:00,8:15,Airbus A320,175,Yes
+Air KBZ,K7 205,Mandalay (MDL),Yangon (RGN),8:45,10:00,ATR 72,65,Yes
+Myanmar National Airlines,UB 304,Yangon (RGN),Naypyidaw (NYT),9:00,10:00,Airbus A319,149,Yes
+Air KBZ,K7 307,Naypyidaw (NYT),Yangon (RGN),10:30,11:30,ATR 72,65,Yes
+Myanmar National Airlines,UB 206,Yangon (RGN),Heho (HEH),11:00,12:15,Airbus A320,175,Yes
+Air KBZ,K7 211,Heho (HEH),Yangon (RGN),12:45,14:00,ATR 72,65,Yes
+Cambodia Angkor Air,KR 302,Phnom Penh (PNH),Siem Reap (REP),8:00,8:45,Airbus A320,175,Yes
+Lanmei Airlines,LQ 888,Siem Reap (REP),Phnom Penh (PNH),9:30,10:15,Airbus A321,232,Yes
+Cambodia Angkor Air,KR 404,Phnom Penh (PNH),Sihanoukville (KOS),10:00,10:45,Airbus A320,175,Yes
+Lanmei Airlines,LQ 889,Sihanoukville (KOS),Phnom Penh (PNH),11:30,12:15,Airbus A321,232,Yes
+Lao Airlines,QV 511,Vientiane (VTE),Luang Prabang (LPQ),7:00,7:45,Airbus A320,175,Yes
+Lao Skyway,AW 102,Luang Prabang (LPQ),Vientiane (VTE),8:15,9:00,Cessna Grand Caravan,#N/A,Yes
+Lao Airlines,QV 515,Vientiane (VTE),Pakse (PKZ),9:00,10:00,Airbus A320,175,Yes
+Lao Skyway,AW 105,Pakse (PKZ),Vientiane (VTE),10:30,11:30,Cessna Grand Caravan,#N/A,Yes
+Lao Airlines,QV 519,Vientiane (VTE),Savannakhet (ZVK),11:00,12:00,Airbus A320,175,Yes
+Lao Skyway,AW 108,Savannakhet (ZVK),Vientiane (VTE),12:30,13:30,Cessna Grand Caravan,#N/A,Yes
+Royal Brunei Airlines,BI 682,Bandar Seri Begawan (BWN),Kuala Lumpur (KUL),8:00,10:00,Airbus A320,175,Yes
+Malaysia Airlines,MH 870,Kuala Lumpur (KUL),Bandar Seri Begawan (BWN),10:30,12:30,Boeing 737,162,Yes
+Royal Brunei Airlines,BI 636,Bandar Seri Begawan (BWN),Singapore (SIN),11:00,13:00,Airbus A320,175,Yes
+Singapore Airlines,SQ 681,Singapore (SIN),Bandar Seri Begawan (BWN),13:30,15:30,Airbus A320,175,Yes
+Libyan Airlines,LN161,Tripoli (TIP),Khartoum (KRT),9:00,12:00,Airbus A330,#N/A,Yes
+Sudan Airways,SD102,Khartoum (KRT),Tripoli (TIP),13:00,16:00,Boeing 737,162,Yes
+EgyptAir,MS667,Alexandria (HBE),Tripoli (TIP),7:00,9:00,Airbus A320,175,Yes
+Libyan Airlines,LN165,Tripoli (TIP),Alexandria (HBE),10:00,12:00,Airbus A320,175,Yes
+Royal Air Maroc,AT521,Marrakech (RAK),Cairo (CAI),6:00,11:00,Boeing 737,162,Yes
+EgyptAir,MS847,Cairo (CAI),Marrakech (RAK),12:00,17:00,Airbus A320,175,Yes
+Kenya Airways,KQ415,Nairobi (NBO),Addis Ababa (ADD),9:00,11:00,Boeing 737,162,Yes
+Ethiopian Airlines,ET302,Addis Ababa (ADD),Nairobi (NBO),12:00,14:00,Boeing 787,299,Yes
+Air Tanzania,TC201,Dar es Salaam (DAR),Kampala (KLA),10:00,11:30,Airbus A220,#N/A,Yes
+Uganda Airlines,UR322,Kampala (KLA),Dar es Salaam (DAR),12:30,14:00,CRJ-900,#N/A,Yes
+RwandAir,WB427,Kigali (KGL),Bujumbura (BJM),8:00,8:45,CRJ-900,#N/A,Yes
+Burundi Airlines,QB201,Bujumbura (BJM),Kigali (KGL),9:30,10:15,DHC-8,#N/A,Yes
+Kenya Airways,KQ311,Mombasa (MBA),Mogadishu (MGQ),7:00,8:30,Embraer E190,105,Yes
+South African Airways,SA042,Johannesburg (JNB),Cape Town (CPT),9:00,11:00,Airbus A320,175,Yes
+FlySafair,FA203,Cape Town (CPT),Johannesburg (JNB),12:00,14:00,Boeing 737,162,Yes
+Airlink,4Z314,Durban (DUR),Harare (HRE),10:00,12:00,Embraer ERJ,#N/A,Yes
+Air Zimbabwe,UM437,Harare (HRE),Durban (DUR),13:00,15:00,Boeing 737,162,Yes
+Air Botswana,BP212,Gaborone (GBE),Lusaka (LUN),8:00,9:30,ATR 72,65,Yes
+Zambia Airways,ZN523,Lusaka (LUN),Gaborone (GBE),10:30,12:00,CRJ-900,#N/A,Yes
+Air Namibia,SW724,Windhoek (WDH),Luanda (LAD),11:00,13:00,Airbus A319,149,Yes
+TAAG Angola Airlines,DT712,Luanda (LAD),Windhoek (WDH),14:00,16:00,Boeing 737,162,Yes
+Air Mauritius,MK288,Port Louis (MRU),Antananarivo (TNR),12:00,13:30,Airbus A340,#N/A,Yes
+South African Airways,SA060,Johannesburg (JNB),Addis Ababa (ADD),14:00,18:00,Airbus A330,#N/A,Yes
+Kenya Airways,KQ502,Nairobi (NBO),Lagos (LOS),10:00,14:00,Boeing 737,162,Yes
+Nigeria Airways,WT235,Lagos (LOS),Nairobi (NBO),15:00,19:00,Airbus A320,175,Yes
+Royal Air Maroc,AT204,Casablanca (CMN),Accra (ACC),11:00,15:00,Boeing 737,162,Yes
+Ghana Airways,GH158,Accra (ACC),Casablanca (CMN),16:00,20:00,Airbus A320,175,Yes
+EgyptAir,MS849,Cairo (CAI),Dar es Salaam (DAR),12:00,18:00,Boeing 777,210,Yes
+Aeroflot,SU 204,Moscow (SVO),Beijing (PEK),9:00,23:00,Boeing 777,210,Yes
+Air China,CA 910,Beijing (PEK),Moscow (SVO),7:00,9:00,Airbus A330,#N/A,Yes
+S7 Airlines,S7 769,Vladivostok (VVO),Shanghai (PVG),10:00,13:00,Airbus A321,232,Yes
+China Eastern,MU 2036,Shanghai (PVG),Vladivostok (VVO),14:00,17:00,Airbus A320,175,Yes
+Aeroflot,SU 546,Yekaterinburg (SVX),Urumqi (URC),6:00,9:00,Airbus A321,232,Yes
+China Southern,CZ 6920,Urumqi (URC),Yekaterinburg (SVX),10:00,13:00,Boeing 737,162,Yes
+Hainan Airlines,HU 7908,Irkutsk (IKT),Harbin (HRB),8:00,10:00,Airbus A320,175,Yes
+Korean Air,KE 924,Seoul (ICN),Moscow (SVO),11:00,13:00,Boeing 777,210,Yes
+S7 Airlines,S7 203,Vladivostok (VVO),Busan (PUS),12:00,13:30,Airbus A321,232,Yes
+Air Busan,BX 712,Busan (PUS),Vladivostok (VVO),14:30,16:00,Airbus A320,175,Yes
+Aeroflot,SU 252,Moscow (SVO),Pyongyang (FNJ),9:00,23:00,Tupolev Tu-204,#N/A,Yes
+China Airlines,CI 7990,Taipei (TPE),Port Moresby (POM),10:00,04:00 PM (+1),"Airbus A330 (TPE-SIN), Air Niugini 767 (SIN-POM)",272,No
+Air Niugini,PX 221,Port Moresby (POM),Taipei (TPE),18:00,12:00 AM (+1),"Air Niugini 767 (POM-SIN), Airbus A330 (SIN-TPE)",199,No
+EVirgin Australia Air,BR 118,Taipei (TPE),Lae (LAE),12:00,06:00 PM (+1),"Airbus A321 (TPE-SIN), Air Niugini 767 (SIN-LAE)",347,No
+Korean Air,KE 991,Seoul (ICN),Damascus (DAM),10:00,16:00,"Boeing 777 (ICN-DXB), Syrian Air A320 (DXB-DAM)",437,No
+Syrian Air,RB 728,Damascus (DAM),Seoul (ICN),18:00,12:00 PM (+1),"Syrian Air A320 (DAM-DXB), Boeing 777 (DXB-ICN)",112,No
+China Southern,CZ 6922,Beijing (PEK),Baku (GYD),9:00,14:00,Boeing 737,162,Yes
+Azerbaijan Airlines,J2 861,Baku (GYD),Beijing (PEK),16:00,21:00,Airbus A320,175,Yes
+China Eastern,MU 2038,Shanghai (PVG),Baku (GYD),10:00,15:00,Airbus A321,232,Yes
+Azerbaijan Airlines,J2 863,Baku (GYD),Shanghai (PVG),17:00,22:00,Airbus A320,175,Yes
+Air New Zealand,NZ 018,Auckland (AKL),Moscow (SVO),9:00,11:00 AM (+1),"Emirates A380 (AKL-DXB), Boeing 777 (DXB-SVO)",121,No
+S7 Airlines,S7 3271,Vladivostok (VVO),Christchurch (CHC),7:00,09:00 AM (+1),"Airbus A321 (VVO-ICN), Korean Air 777 (ICN-CHC)",188,No
+Air New Zealand,NZ 176,Christchurch (CHC),Vladivostok (VVO),11:00,01:00 PM (+1),"Korean Air 777 (CHC-ICN), Airbus A321 (ICN-VVO)",96,No
+Aeroflot,SU 282,Moscow (SVO),Wellington (WLG),6:00,08:00 AM (+2),"Boeing 777 (SVO-DXB), Emirates A380 (DXB-WLG)",100,No
+Air New Zealand,NZ 024,Wellington (WLG),Moscow (SVO),10:00,12:00 PM (+1),"Emirates A380 (WLG-DXB), Boeing 777 (DXB-SVO)",184,No
+Air Canada,AC102,Toronto (YYZ),New York (JFK),8:00,9:30,Airbus A321,232,Yes
+United Airlines,UA305,New York (JFK),Toronto (YYZ),10:30,12:00,Boeing 737,162,Yes
+WestJet,WS654,Calgary (YYC),Los Angeles (LAX),9:00,11:00,Boeing 737,162,Yes
+American Airlines,AA421,Los Angeles (LAX),Calgary (YYC),12:00,14:00,Airbus A320,175,Yes
+Air Canada,AC310,Vancouver (YVR),Chicago (ORD),10:00,13:00,Boeing 787,299,Yes
+United Airlines,UA214,Chicago (ORD),Vancouver (YVR),14:00,17:00,Boeing 777,210,Yes
+Delta Air Lines,DL123,Atlanta (ATL),Montreal (YUL),7:00,10:00,Airbus A320,175,Yes
+Air Canada,AC456,Montreal (YUL),,11:00,14:00,Airbus A321,232,Yes
+Alaska Airlines,AS234,Seattle (SEA),Anchorage (ANC),6:00,9:00,Boeing 737,162,Yes
+Air Canada,AC345,Anchorage (ANC),Seattle (SEA),10:00,13:00,Airbus A320,175,Yes
+Aeromexico,AM234,Mexico City (MEX),Cancun (CUN),9:00,11:00,Boeing 737,162,Yes
+Volaris,Y4567,Cancun (CUN),Mexico City (MEX),12:00,14:00,Airbus A320,175,Yes
+Copa Airlines,CM567,Panama City (PTY),Guatemala City (GUA),10:00,11:30,Boeing 737,162,Yes
+Avianca,AV789,Guatemala City (GUA),Panama City (PTY),12:30,14:00,Airbus A320,175,Yes
+VivaAerobus,VB123,Monterrey (MTY),Havana (HAV),8:00,11:00,Airbus A320,175,Yes
+Cubana de AviaciÃ³n,CU456,Havana (HAV),Monterrey (MTY),12:00,15:00,Antonov An-158,#N/A,Yes
+Aeromexico,AM321,Guadalajara (GDL),San Jose (SJO),7:00,10:00,Boeing 737,162,Yes
+Avianca Costa Rica,LR789,San Jose (SJO),Guadalajara (GDL),11:00,14:00,Airbus A320,175,Yes
+Volaris,Y4321,Tijuana (TIJ),San Salvador (SAL),6:00,9:00,Airbus A321,232,Yes
+Avianca El Salvador,TA543,San Salvador (SAL),Tijuana (TIJ),10:00,13:00,Airbus A320,175,Yes
+Caribbean Airlines,BW456,Port of Spain (POS),Kingston (KIN),10:00,12:00,Boeing 737,162,Yes
+Air Jamaica,JM789,Kingston (KIN),Port of Spain (POS),13:00,15:00,Boeing 737,162,Yes
+Copa Airlines,CM901,Santo Domingo (SDQ),San Juan (SJU),9:00,10:00,Embraer 190,#N/A,Yes
+JetBlue Airways,B6543,San Juan (SJU),Santo Domingo (SDQ),11:00,12:00,Airbus A320,175,Yes
+InterCaribbean Airways,JY234,Providenciales (PLS),Nassau (NAS),8:00,9:00,Embraer 120,#N/A,Yes
+Bahamasair,UP678,Nassau (NAS),Providenciales (PLS),10:00,11:00,Boeing 737,162,Yes
+Winair,WM123,Sint Maarten (SXM),Antigua (ANU),7:00,7:45,DHC-6 Twin Otter,#N/A,Yes
+LIAT,LI345,Antigua (ANU),Sint Maarten (SXM),8:30,9:15,ATR 72,65,Yes
+Air CaraÃ¯bes,TX678,Pointe-Ã -Pitre (PTP),Fort-de-France (FDF),11:00,11:30,Airbus A330,#N/A,Yes
+Air Martinique,MK456,Fort-de-France (FDF),Pointe-Ã -Pitre (PTP),12:30,13:00,ATR 72,65,Yes
+WestJet Encore,WR234,Edmonton (YEG),Winnipeg (YWG),10:00,11:30,Bombardier Q400,88,Yes
+Air Canada Express,AC789,Winnipeg (YWG),Edmonton (YEG),12:30,14:00,CRJ-900,41,Yes
+SkyWest Airlines,OO456,Minneapolis (MSP),Fargo (FAR),9:00,10:00,CRJ-200,36,Yes
+Delta Connection,DL678,Fargo (FAR),Minneapolis (MSP),11:00,12:00,ERJ-175,32,Yes
+Horizon Air,QX123,Portland (PDX),Spokane (GEG),8:00,9:00,DHC-8 Q400,31,Yes
+Alaska Airlines,AS345,,Portland (PDX),10:00,11:00,ERJ-175,69,Yes
+Cape Air,9K567,Boston (BOS),Nantucket (ACK),7:00,7:30,Cessna 402,71,Yes
+JetBlue Airways,B6788,Nantucket (ACK),Boston (BOS),8:00,8:30,Embraer 190,78,Yes
+Mesa Airlines,YV234,Phoenix (PHX),Tucson (TUS),11:00,11:30,CRJ-900,42,Yes
+Southwest Airlines,WN123,Tucson (TUS),Phoenix (PHX),12:30,13:00,Boeing 737,162,Yes
+Antarctic Logistics Centre,ALC101,Punta Arenas (PUQ),Union Glacier (UGL),8:00,12:00,Ilyushin Il-76,#N/A,Yes
+Antarctic Airways,AA202,Christchurch (CHC),McMurdo Station (NZAA),9:00,15:00,Boeing 757,90,Yes
+Skytraders,SKS303,Hobart (HBA),Wilkins Runway (YWHI),10:00,14:00,Airbus A319,149,Yes
+Antarctic Logistics Centre,ALC404,Cape Town (CPT),Neumayer Station III (EDND),7:00,13:00,Dornier 228,18,Yes
+American Airlines,AA901,Miami (MIA),Havana (HAV),9:00,10:00,Boeing 737,162,Yes
+Cubana de AviaciÃ³n,CU301,Havana (HAV),Miami (MIA),11:00,12:00,Antonov An-158,#N/A,Yes
+United Airlines,UA801,Houston (IAH),Mexico City (MEX),10:00,11:30,Airbus A320,175,Yes
+Aeromexico,AM202,Mexico City (MEX),Houston (IAH),12:30,14:00,Boeing 737,162,Yes
+WestJet,WS123,Calgary (YYC),Phoenix (PHX),10:00,12:00,Boeing 737,162,Yes
+American Airlines,AA567,Phoenix (PHX),Calgary (YYC),13:00,15:00,Airbus A320,175,Yes
+Air Canada,AC321,Vancouver (YVR),San Jose (SJO),11:00,16:00,Boeing 787,299,Yes
+Avianca Costa Rica,LR790,San Jose (SJO),Vancouver (YVR),17:00,22:00,Airbus A320,175,Yes
+Caribbean Airlines,BW456,Port of Spain (POS),Kingston (KIN),10:00,12:00,Boeing 737,162,Yes
+Air Jamaica,JM789,Kingston (KIN),Port of Spain (POS),13:00,15:00,Boeing 737,162,Yes
+Copa Airlines,CM901,Santo Domingo (SDQ),San Juan (SJU),9:00,10:00,Embraer 190,#N/A,Yes
+JetBlue Airways,B6543,San Juan (SJU),Santo Domingo (SDQ),11:00,12:00,Airbus A320,175,Yes
+InterCaribbean Airways,JY234,Providenciales (PLS),Nassau (NAS),8:00,9:00,Embraer 120,#N/A,Yes
+Bahamasair,UP678,Nassau (NAS),Providenciales (PLS),10:00,11:00,Boeing 737,162,Yes
+Winair,WM123,Sint Maarten (SXM),Antigua (ANU),7:00,7:45,DHC-6 Twin Otter,#N/A,Yes
+LIAT,LI345,Antigua (ANU),Sint Maarten (SXM),8:30,9:15,ATR 72,65,Yes
+SkyWest Airlines,OO456,Minneapolis (MSP),Fargo (FAR),9:00,10:00,CRJ-200,36,Yes
+Delta Connection,DL678,Fargo (FAR),Minneapolis (MSP),11:00,12:00,ERJ-175,39,Yes
+Horizon Air,QX123,Portland (PDX),Spokane (GEG),8:00,9:00,DHC-8 Q400,43,Yes
+Alaska Airlines,AS345,Spokane (GEG),Portland (PDX),10:00,11:00,ERJ-175,54,Yes
+Cape Air,9K567,Boston (BOS),Nantucket (ACK),7:00,7:30,Cessna 402,#N/A,Yes
+JetBlue Airways,B6788,Nantucket (ACK),Boston (BOS),8:00,8:30,Embraer 190,#N/A,Yes
+Mesa Airlines,YV234,Phoenix (PHX),Tucson (TUS),11:00,11:30,CRJ-900,#N/A,Yes
+Southwest Airlines,WN123,Tucson (TUS),Phoenix (PHX),12:30,13:00,Boeing 737,162,Yes
+SAS,SK102,Stockholm (ARN),Gothenburg (GOT),7:30,8:30,Boeing 737,162,Yes
+Norwegian Air,DY203,Gothenburg (GOT),Stockholm (ARN),9:30,10:30,Boeing 737,162,Yes
+SAS,SK304,Stockholm (ARN),MalmÃ¶ (MMX),10:00,11:15,Airbus A320,175,Yes
+Ryanair,FR405,MalmÃ¶ (MMX),Stockholm (ARN),12:00,13:15,Boeing 737,162,Yes
+SAS,SK506,Stockholm (ARN),LuleÃ¥ (LLA),6:00,7:30,Boeing 737,162,Yes
+Danish Air Transport,DX202,Aalborg (AAL),Copenhagen (CPH),8:30,9:15,ATR 72,65,Yes
+SAS,SK203,Copenhagen (CPH),Aarhus (AAR),9:00,9:30,CRJ-200,#N/A,Yes
+Ryanair,FR404,Aarhus (AAR),Copenhagen (CPH),10:00,10:30,Boeing 737,162,Yes
+SAS,SK305,Billund (BLL),Oslo (OSL),10:00,11:00,Boeing 737,162,Yes
+Norwegian Air,DY506,Oslo (OSL),Billund (BLL),12:00,13:00,Boeing 737,162,Yes
+WiderÃ¸e,WF303,Trondheim (TRD),BodÃ¸ (BOO),10:00,11:30,Dash 8,79,Yes
+Norwegian Air,DY404,BodÃ¸ (BOO),Trondheim (TRD),12:30,14:00,Boeing 737,162,Yes
+SAS,SK505,Oslo (OSL),TromsÃ¸ (TOS),6:00,8:00,Boeing 737,162,Yes
+Icelandair,FI205,Reykjavik (KEF),Copenhagen (CPH),7:00,11:00,Boeing 737 MAX,#N/A,Yes
+SAS,SK4606,Copenhagen (CPH),Reykjavik (KEF),12:00,14:00,Airbus A320neo,#N/A,Yes
+Icelandair,FI343,Reykjavik (KEF),Oslo (OSL),10:00,13:00,Boeing 737 MAX,#N/A,Yes
+Norwegian Air,DY1156,Oslo (OSL),Reykjavik (KEF),14:00,17:00,Boeing 737,162,Yes
+Icelandair,FI451,Reykjavik (KEF),Stockholm (ARN),9:00,12:00,Boeing 737 MAX,#N/A,Yes
+SAS,SK907,Copenhagen (CPH),New York (JFK),10:00,13:00,Airbus A350,386,Yes
+United Airlines,UA912,New York (JFK),Copenhagen (CPH),18:00,,Boeing 787,299,Yes
+SAS,SK935,Stockholm (ARN),Chicago (ORD),12:00,15:00,Airbus A330,#N/A,Yes
+American Airlines,AA341,Chicago (ORD),Stockholm (ARN),17:00,,Boeing 787,299,Yes
+Norwegian Air,DI7031,Oslo (OSL),Bangkok (BKK),14:00,,Boeing 787,299,Yes
+Thai Airways,TG955,Bangkok (BKK),Oslo (OSL),12:00,,Airbus A350,386,Yes
+Finnair,AY105,Helsinki (HEL),Tokyo (NRT),17:00,,Airbus A350,386,Yes
+Japan Airlines,JL414,Tokyo (NRT),Helsinki (HEL),11:00,15:00,Boeing 787,299,Yes
+SAS,SK109,Copenhagen (CPH),Oslo (OSL),9:00,10:00,CRJ-900,#N/A,Yes
+Norwegian Air,DY1104,Oslo (OSL),Stockholm (ARN),10:00,11:00,Boeing 737,162,Yes
+SAS,SK211,Stockholm (ARN),Oslo (OSL),12:00,13:00,Airbus A320,175,Yes
+Norwegian Air,DY1501,Oslo (OSL),London (LGW),8:00,9:30,Boeing 737,162,Yes
+British Airways,BA2567,London (LGW),Oslo (OSL),10:30,12:00,Airbus A320,175,Yes
+SAS,SK245,Stockholm (ARN),Helsinki (HEL),7:00,9:30,Airbus A320,175,Yes
+Finnair,AY122,Helsinki (HEL),Stockholm (ARN),10:30,11:00,Embraer 190,#N/A,Yes
+SAS,SK623,Stockholm (ARN),Amsterdam (AMS),10:00,12:00,Boeing 737,162,Yes
+KLM,KL1116,Amsterdam (AMS),Stockholm (ARN),13:00,15:00,Boeing 737,162,Yes
+SAS,SK531,Stockholm (ARN),Paris (CDG),8:00,10:30,Airbus A320,175,Yes
+Flynas,XY 401,Jeddah (JED),Riyadh (RUH),8:00 AM,9:30 AM,Airbus A320,175,Yes
+Saudia,SV 315,Riyadh (RUH),Dammam (DMM),9:00 AM,10:00 AM,Boeing 777,210,Yes
+Flynas,XY 411,Dammam (DMM),Riyadh (RUH),10:00 AM,11:00 AM,Airbus A320,175,Yes
+Saudia,SV 321,Jeddah (JED),Medina (MED),11:00 AM,11:45 AM,Boeing 777,210,Yes
+Flynas,XY 425,Medina (MED),Jeddah (JED),12:00 PM,12:45 PM,Airbus A320,175,Yes
+Saudia,SV 333,Riyadh (RUH),Cairo (CAI),1:00 PM,3:00 PM,Boeing 777,210,Yes
+Flynas,XY 431,Jeddah (JED),Dubai (DXB),2:00 PM,4:00 PM,Airbus A320,175,Yes
+Saudia,SV 345,Dammam (DMM),Amman (AMM),3:00 PM,5:00 PM,Boeing 777,210,Yes
+Flynas,XY 437,Riyadh (RUH),Beirut (BEY),4:00 PM,6:00 PM,Airbus A320,175,Yes
+Nile Air,NP 502,Alexandria (ALY),Cairo (CAI),8:00 AM,8:45 AM,Airbus A321,232,Yes
+Royal Jordanian,RJ 601,Amman (AMM),Aqaba (AQJ),7:00 AM,7:45 AM,Airbus A320,175,Yes
+Middle East Airlines,ME 702,Beirut (BEY),Amman (AMM),8:00 AM,9:00 AM,Airbus A321,232,Yes
+EgyptAir,MS 411,Cairo (CAI),Luxor (LXR),9:00 AM,10:00 AM,Boeing 737,162,Yes
+Royal Jordanian,RJ 611,Amman (AMM),Cairo (CAI),9:00 AM,11:00 AM,Airbus A320,175,Yes
+Middle East Airlines,ME 715,Beirut (BEY),Dubai (DXB),10:00 AM,2:00 PM,Airbus A321,232,Yes
+Nile Air,NP 515,Luxor (LXR),Cairo (CAI),10:00 AM,11:00 AM,Airbus A321,232,Yes
+EgyptAir,MS 423,Cairo (CAI),Aswan (ASW),11:00 AM,12:15 PM,Boeing 737,162,Yes
+Royal Jordanian,RJ 623,Aqaba (AQJ),Amman (AMM),11:00 AM,11:45 AM,Airbus A320,175,Yes
+Royal Air Maroc,AT 501,Casablanca (CMN),Marrakech (RAK),7:00 AM,8:00 AM,Boeing 737,162,Yes
+Air Algerie,AH 602,Algiers (ALG),Oran (ORN),8:00 AM,9:00 AM,Boeing 737,162,Yes
+Tunisair,TU 701,Tunis (TUN),Djerba (DJE),7:00 AM,8:00 AM,Airbus A320,175,Yes
+Oman Air,WY 801,Muscat (MCT),Salalah (SLL),7:00 AM,8:30 AM,Boeing 737,162,Yes
+Kuwait Airways,KU 902,Kuwait City (KWI),Dubai (DXB),8:00 AM,9:30 AM,Airbus A320,175,Yes
+Royal Air Maroc,AT 511,Casablanca (CMN),Agadir (AGA),9:00 AM,10:00 AM,Boeing 737,162,Yes
+Air Algerie,AH 615,Oran (ORN),Algiers (ALG),10:00 AM,11:00 AM,Boeing 737,162,Yes
+Tunisair,TU 711,Tunis (TUN),Monastir (MIR),9:00 AM,9:30 AM,Airbus A320,175,Yes
+Oman Air,WY 811,Muscat (MCT),Khasab (KHS),9:00 AM,10:00 AM,Boeing 737,162,Yes
+Kuwait Airways,KU 915,Kuwait City (KWI),Jeddah (JED),10:00 AM,12:00 PM,Airbus A320,175,Yes
+Caribbean Airlines,BW456,Port of Spain (POS),Kingston (KIN),10:00 AM,12:00 PM,Boeing 737,162,Yes
+Air Jamaica,JM789,Kingston (KIN),Port of Spain (POS),1:00 PM,3:00 PM,Boeing 737,162,Yes
+Copa Airlines,CM901,Santo Domingo (SDQ),San Juan (SJU),9:00 AM,10:00 AM,Embraer 190,#N/A,Yes
+JetBlue Airways,B6543,San Juan (SJU),Santo Domingo (SDQ),11:00 AM,12:00 PM,Airbus A320,175,Yes
+InterCaribbean Airways,JY234,Providenciales (PLS),Nassau (NAS),8:00 AM,9:00 AM,Embraer 120,#N/A,Yes
+Bahamasair,UP678,Nassau (NAS),Providenciales (PLS),10:00 AM,11:00 AM,Boeing 737,162,Yes
+Winair,WM123,Sint Maarten (SXM),Antigua (ANU),7:00 AM,7:45 AM,DHC-6 Twin Otter,#N/A,Yes
+LIAT,LI345,Antigua (ANU),Sint Maarten (SXM),8:30 AM,9:15 AM,ATR 72,65,Yes
+Air Caraïbes,TX678,Pointe-à-Pitre (PTP),Fort-de-France (FDF),11:00 AM,11:30 AM,Airbus A330,#N/A,Yes
+Air Martinique,MK456,Fort-de-France (FDF),Pointe-à-Pitre (PTP),12:30 PM,1:00 PM,ATR 72,65,Yes
+LIAT,LI101,St. John's (ANU),Castries (UVF),9:00 AM,9:45 AM,ATR 42,#N/A,Yes
+Caribbean Airlines,BW310,Port of Spain (POS),Barbados (BGI),11:00 AM,12:00 PM,Boeing 737,162,Yes
+LIAT,LI102,Castries (UVF),St. John's (ANU),10:30 AM,11:15 AM,ATR 42,#N/A,Yes
+Virgin Atlantic,VS234,Barbados (BGI),St. Lucia (UVF),1:00 PM,1:30 PM,Airbus A330,#N/A,Yes
+Caribbean Airlines,BW320,Georgetown (GEO),Port of Spain (POS),8:00 AM,9:30 AM,Boeing 737,162,Yes
+LIAT,LI103,St. George's (GND),Kingstown (SVD),10:00 AM,10:30 AM,ATR 72,65,Yes
+Caribbean Airlines,BW330,Port of Spain (POS),Curaçao (CUR),2:00 PM,3:00 PM,Boeing 737,162,Yes
+Winair,WM124,Sint Maarten (SXM),St. Barth (SBH),9:00 AM,9:15 AM,DHC-6 Twin Otter,#N/A,Yes
+LIAT,LI104,Kingstown (SVD),St. George's (GND),11:00 AM,11:30 AM,ATR 72,65,Yes
+Caribbean Airlines,BW340,Curaçao (CUR),Port of Spain (POS),4:00 PM,5:00 PM,Boeing 737,162,Yes
+American Airlines,AA901,Miami (MIA),Havana (HAV),9:00 AM,10:00 AM,Boeing 737,162,Yes
+Drukair,KB103,Paro (PBH),Bangkok (BKK),2:00 PM,4:30 PM,Airbus A319,149,Yes
+Thai Airways,TG325,Bangkok (BKK),Paro (PBH),5:30 PM,8:00 PM,Boeing 737,162,Yes
+,T5101,Ashgabat (ASB),Istanbul (IST),8:00 AM,11:00 AM,Boeing 737,162,Yes
+Turkish Airlines,,Istanbul (IST),Ashgabat (ASB),12:00 PM,5:00 PM,Airbus A321,232,Yes
+Turkmenistan Airlines,T5102,Ashgabat (ASB),Frankfurt (FRA),10:00 AM,2:00 PM,Boeing 737,162,Yes
+Lufthansa,LH690,Frankfurt (FRA),Ashgabat (ASB),3:00 PM,9:00 PM,Airbus A320,175,Yes
+Yemenia,IY901,,Cairo (CAI),9:00 AM,11:30 AM,Airbus A320,175,Yes
+EgyptAir,MS868,Cairo (CAI),Sana'a (SAH),12:30 PM,3:00 PM,Airbus A320,175,Yes
+Yemenia,IY902,Sana'a (SAH),Amman (AMM),1:00 PM,3:00 PM,Airbus A320,175,Yes
+,RJ601,Amman (AMM),Sana'a (SAH),4:00 PM,6:00 PM,Airbus A320,175,Yes
+Turkmenistan Airlines,T5103,Ashgabat (ASB),Dubai (DXB),2:00 PM,,Boeing 737,162,Yes
+Flydubai,FZ721,Dubai (DXB),Ashgabat (ASB),5:30 PM,8:00 PM,Boeing 737,162,Yes
+Air India,AI 150,Mumbai (BOM),Sao Paulo (GRU),8:00 AM,4:00 PM,Boeing 777,210,Yes
+SriLankan Airlines,UL 102,Jaffna (JAF),Colombo (CMB),9:00 AM,9:45 AM,Airbus A320,175,Yes
+Cinnamon Air,C7 203,Kandy (KND),Colombo (CMB),10:00 AM,10:30 AM,Cessna 208,20,Yes
+SriLankan Airlines,UL 103,Colombo (CMB),Male (MLE),11:00 AM,12:30 PM,Airbus A321,232,Yes
+Nepal Airlines,RA 601,Kathmandu (KTM),Delhi (DEL),9:00 AM,11:00 AM,Airbus A320,175,Yes
+Yeti Airlines,YT 401,Kathmandu (KTM),Pokhara (PKR),10:00 AM,10:30 AM,ATR 72,65,Yes
+Buddha Air,BA 502,Kathmandu (KTM),Bhairahawa (BWA),11:00 AM,11:45 AM,ATR 42,#N/A,Yes
+Nepal Airlines,RA 602,Delhi (DEL),Kathmandu (KTM),2:00 PM,3:30 PM,Airbus A320,175,Yes
+Yeti Airlines,YT 402,Pokhara (PKR),Kathmandu (KTM),1:00 PM,1:30 PM,ATR 72,65,Yes
+Kam Air,RQ 602,Kabul (KBL),Kandahar (KDH),10:00 AM,11:00 AM,Boeing 737,162,Yes
+Ariana Afghan Airlines,FG 502,Herat (HER),Kabul (KBL),11:30 AM,1:00 PM,Boeing 737,162,Yes
+Kam Air,RQ 603,Kandahar (KDH),Kabul (KBL),12:00 PM,1:00 PM,Boeing 737,162,Yes
+Ariana Afghan Airlines,FG 503,Kabul (KBL),Mazar-i-Sharif (MZR),2:00 PM,3:00 PM,Boeing 737,162,Yes
+Air Astana,KC 855,Almaty (ALA),Astana (NQZ),7:00 AM,8:30 AM,Airbus A320,175,Yes
+SCAT Airlines,DV 705,Astana (NQZ),Almaty (ALA),9:00 AM,10:30 AM,Boeing 737,162,Yes
+Azerbaijan Airlines,J2 229,Baku (GYD),Dubai (DXB),10:00 AM,1:30 PM,Airbus A320,175,Yes
+Flydubai,FZ 766,Dubai (DXB),Baku (GYD),2:30 PM,6:00 PM,Boeing 737,162,Yes
+Air Astana,KC 231,Almaty (ALA),Tashkent (TAS),9:00 AM,10:30 AM,Airbus A320,175,Yes
+Uzbekistan Airways,HY 762,Tashkent (TAS),Almaty (ALA),11:30 AM,1:00 PM,Boeing 767,261,Yes
+Air Astana,KC 907,Astana (NQZ),Frankfurt (FRA),10:00 AM,2:00 PM,Boeing 767,261,Yes
+Lufthansa,LH 647,Frankfurt (FRA),Astana (NQZ),3:00 PM,10:00 PM,Airbus A330,#N/A,Yes
+Virgin Australia,VA 101,Melbourne (MEL),Wellington (WLG),8:00 AM,1:00 PM,Boeing 737,162,Yes
+Air New Zealand,NZ 124,Melbourne (MEL),Queenstown (ZQN),8:30 AM,1:30 PM,Airbus A320,175,Yes
+Fiji Airways,FJ 900,Melbourne (MEL),Nadi (NAN),9:00 AM,4:00 PM,Airbus A330,#N/A,Yes
+Virgin Australia,VA 105,Melbourne (MEL),Denpasar (DPS),9:30 AM,1:30 PM,Boeing 737,162,Yes
+Qantas,QF 163,Melbourne (MEL),Honolulu (HNL),10:00 AM,8:00 PM,Airbus A330,#N/A,Yes
+Thai Airways,TG 472,Melbourne (MEL),Bangkok (BKK),9:30 AM,4:30 PM,Boeing 787,299,Yes
+Vietnam Airlines,VN 780,Melbourne (MEL),Ho Chi Minh City (SGN),10:00 AM,4:00 PM,Boeing 787,299,Yes
+Garuda Indonesia,GA 716,Melbourne (MEL),Jakarta (CGK),10:30 AM,3:30 PM,Airbus A330,#N/A,Yes
+Philippine Airlines,PR 208,Melbourne (MEL),Manila (MNL),11:00 AM,6:00 PM,Airbus A321,232,Yes
+China Southern,CZ 322,Melbourne (MEL),Guangzhou (CAN),11:30 AM,7:00 PM,Airbus A330,#N/A,Yes
+Japan Airlines,JL 790,Melbourne (MEL),Tokyo (NRT),12:00 PM,8:00 PM,Boeing 787,299,Yes
+Korean Air,KE 102,Melbourne (MEL),Seoul (ICN),12:30 PM,9:30 PM,Boeing 787,299,Yes
+Qatar Airways,QR 712,New York (JFK),Doha (DOH),10:00 AM,05:30 AM (+1),Airbus A350,386,Yes
+Oman Air,WY 101,New York (JFK),Muscat (MCT),9:00 AM,05:00 AM (+1),Boeing 787,299,Yes
+Kuwait Airways,KU 102,New York (JFK),Kuwait City (KWI),11:00 AM,06:00 AM (+1),Boeing 777,210,Yes
+Qatar Airways,QR 726,Dallas (DFW),Doha (DOH),8:30 AM,05:30 AM (+1),Boeing 777,210,Yes
+Oman Air,WY 103,Washington D.C. (IAD),Muscat (MCT),9:30 AM,06:00 AM (+1),Boeing 787,299,Yes
+Kuwait Airways,KU 118,Chicago (ORD),Kuwait City (KWI),10:30 AM,07:00 AM (+1),Boeing 777,210,Yes
+Emirates,EK 201,Dubai (DXB),New York (JFK),8:00 AM,2:00 PM,Airbus A380,625,Yes
+United Airlines,UA 977,Dubai (DXB),Washington D.C. (IAD),9:00 AM,3:00 PM,Boeing 777,210,Yes
+Etihad Airways,EY 131,Abu Dhabi (AUH),Chicago (ORD),10:00 AM,4:30 PM,Boeing 787,299,Yes
+Delta Air Lines,DL 236,Dubai (DXB),Atlanta (ATL),11:00 AM,5:00 PM,Airbus A350,386,Yes
+Emirates,EK 207,Dubai (DXB),Los Angeles (LAX),2:00 PM,7:00 PM,Airbus A380,625,Yes
+Etihad Airways,EY 155,Abu Dhabi (AUH),Toronto (YYZ),4:00 PM,9:00 PM,Boeing 787,299,Yes
+Saudia,SV 27,Jeddah (JED),New York (JFK),8:00 AM,2:00 PM,Boeing 777,210,Yes
+Saudia,SV 33,Riyadh (RUH),Washington D.C. (IAD),9:00 AM,3:00 PM,Boeing 787,299,Yes
+Saudia,SV 23,Jeddah (JED),Los Angeles (LAX),1:00 PM,7:00 PM,Boeing 777,210,Yes
+Emirates,EK 206,Dubai (DXB),Dallas (DFW),8:00 AM,3:00 PM,Airbus A380 (connecting from KSA),260,No
+Qatar Airways,QR 711,Doha (DOH),Chicago (ORD),9:00 AM,4:00 PM,Boeing 777 (connecting from KSA),192,No
+Saudia,SV 29,Jeddah (JED),Toronto (YYZ),2:00 PM,8:00 PM,Boeing 787,299,No
+British Airways,BA 247,Buenos Aires (EZE),Riyadh (RUH),10:00 AM,10:00 PM (+1),Boeing 787 (via London),179,No
+Turkish Airlines,TK 15,Bogota (BOG),Dubai (DXB),11:00 AM,11:00 PM,Airbus A330 (via Istanbul),119,No
+Emirates,EK 261,Rio de Janeiro (GIG),Dubai (DXB),1:00 PM,09:00 AM (+1),Airbus A380,625,No
+Qatar Airways,QR 700,Lima (LIM),Doha (DOH),2:00 PM,09:00 AM (+1),Boeing 777 (via São Paulo),203,No
+LATAM Airlines,LA 8062,Santiago (SCL),Abu Dhabi (AUH),9:00 AM,09:00 AM (+1),Boeing 787 (via São Paulo/Madrid),206,No
+South African Airways,SA 204,Sao Paulo (GRU),Jeddah (JED),10:00 AM,10:00 PM,Airbus A330 (via Johannesburg),130,No
+Lufthansa,LH 500,Buenos Aires (EZE),Riyadh (RUH),11:00 AM,11:00 PM (+1),Airbus A340 (via Frankfurt),234,No
+KLM Royal Dutch Airlines,KL 792,Bogota (BOG),Dubai (DXB),12:00 PM,12:00 AM (+1),Boeing 787 (via Amsterdam),249,No
+Nauru Airlines,ON201,Majuro (MAJ),Tarawa (TRW),8:00 AM,9:30 AM,Boeing 737,162,Yes
+Marshall Islands Air,3A301,Majuro (MAJ),Kwajalein (KWA),1:00 PM,1:45 PM,Dornier 228,18,Yes
+Air Kiribati,IK102,Funafuti (FUN),Tarawa (TRW),1:00 PM,3:00 PM,DHC-6 Twin Otter,11,Yes
+Nauru Airlines,ON202,Tarawa (TRW),Majuro (MAJ),4:00 PM,5:30 PM,Boeing 737,162,Yes
+Fiji Airways Link,FJ902,Suva (SUV),Funafuti (FUN),3:00 PM,5:30 PM,ATR 72,65,Yes
+Marshall Islands Air,3A302,Kwajalein (KWA),Majuro (MAJ),2:30 PM,3:15 PM,Dornier 228,18,Yes
+Nauru Airlines,ON203,Majuro (MAJ),Nauru (INU),10:00 AM,11:30 AM,Boeing 737,162,Yes
+Nauru Airlines,ON204,Nauru (INU),Majuro (MAJ),12:30 PM,2:00 PM,Boeing 737,162,Yes
+Air Niue,NF301,Alofi (IUE),Auckland (AKL),9:00 AM,12:00 PM,ATR 72,65,Yes
+STP Airways,2J102,São Tomé (TMS),Lisbon (LIS),11:00 AM,5:00 PM,Boeing 767,261,Yes
+TAP Air Portugal,TP1401,Lisbon (LIS),São Tomé (TMS),6:00 PM,12:00 AM (+1),Airbus A330,478,Yes
+Air Tanzania,TC301,Moroni (HAH),Dar es Salaam (DAR),8:00 AM,10:00 AM,Airbus A220,411,Yes
+Ethiopian Airlines,ET801,Addis Ababa (ADD),Moroni (HAH),10:00 AM,1:00 PM,Boeing 737,162,Yes
+Kenya Airways,KQ411,Nairobi (NBO),Moroni (HAH),9:00 AM,11:30 AM,Embraer 190,213,Yes
+Comores Aviation,O7401,Moroni (HAH),Anjouan (AJN),2:00 PM,2:30 PM,Let L-410,187,Yes
+Comores Aviation,O7402,Anjouan (AJN),Moroni (HAH),3:00 PM,3:30 PM,Let L-410,188,Yes
+Air Tanzania,TC302,Dar es Salaam (DAR),Moroni (HAH),4:00 PM,6:00 PM,Airbus A220,259,Yes
