@@ -1,0 +1,2 @@
+*.dax linguist-language=DAX
+*.m linguist-language=PowerQuery
